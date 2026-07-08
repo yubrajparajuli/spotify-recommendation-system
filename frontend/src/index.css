@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+@theme {
+  --color-spotify-black: #121212;
+  --color-spotify-elevated: #181818;
+  --color-spotify-hover: #282828;
+  --color-spotify-green: #1DB954;
+  --color-spotify-green-hover: #1ED760;
+  --color-spotify-text-secondary: #B3B3B3;
+  --color-spotify-border: #2A2A2A;
+
+  --font-sans: "Inter", system-ui, sans-serif;
+}
+
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 3s linear infinite;
+}
+
+/* Base Styles */
+body {
+  background-color: var(--color-spotify-black);
+  color: white;
+  font-family: var(--font-sans);
+}
+
+@keyframes waveMove {
+  0% {
+    transform: translate(0, 0) scale(1);
+  }
+  25% {
+    transform: translate(40px, -30px) scale(1.15);
+  }
+  50% {
+    transform: translate(-35px, 25px) scale(1.2);
+  }
+  75% {
+    transform: translate(30px, 40px) scale(1.1);
+  }
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+}
+
+/* LOGIN WAVES  */
+.wave-login {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, rgba(29,185,84,0.25), transparent 60%);
+  filter: blur(60px);
+  animation: waveMove 8s ease-in-out infinite;
+  border-radius: 50%;
+}
+
+.wave-login-2 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(255,255,255,0.08), transparent 60%);
+  filter: blur(80px);
+  animation: waveMove 10s ease-in-out infinite reverse;
+  border-radius: 50%;
+}
+
+/* SIGNUP WAVES  */
+.wave-signup {
+  position: absolute;
+  width: 650px;
+  height: 650px;
+  background: radial-gradient(circle, rgba(30,215,96,0.18), transparent 60%);
+  filter: blur(70px);
+  animation: waveMove 9s ease-in-out infinite;
+  border-radius: 50%;
+}
+
+.wave-signup-2 {
+  position: absolute;
+  width: 450px;
+  height: 450px;
+  background: radial-gradient(circle, rgba(120,80,255,0.15), transparent 60%);
+  filter: blur(80px);
+  animation: waveMove 11s ease-in-out infinite reverse;
+  border-radius: 50%;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  scrollbar-width: none;
+}

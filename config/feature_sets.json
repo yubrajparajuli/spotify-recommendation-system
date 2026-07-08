@@ -1,0 +1,38 @@
+{
+    "audio_features": [
+        "danceability",
+        "energy",
+        "mode",
+        "speechiness",
+        "acousticness",
+        "instrumentalness",
+        "liveness",
+        "valence",
+        "tempo",
+        "duration_min",
+        "explicit"
+    ],
+    "full_features": [
+        "danceability",
+        "energy",
+        "mode",
+        "speechiness",
+        "acousticness",
+        "instrumentalness",
+        "liveness",
+        "valence",
+        "tempo",
+        "duration_min",
+        "explicit",
+        "dance_energy_score",
+        "positive_energy",
+        "vocal_score",
+        "energy_acousticness_ratio",
+        "artist_count",
+        "genre_count",
+        "mood_encoded",
+        "mood_v2_encoded",
+        "tempo_encoded",
+        "popularity_tier_encoded"
+    ]
+}

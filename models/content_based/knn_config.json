@@ -1,0 +1,10 @@
+{
+    "model": "knn_v4",
+    "features": "full_features",
+    "scaling": "StandardScaler",
+    "metric": "cosine",
+    "genre_filter": "multiple_genre",
+    "weighting": "popularity_weighted",
+    "deduplication": true,
+    "use_most_popular": true
+}

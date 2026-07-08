@@ -1,0 +1,2081 @@
+{
+    "shape of you::ed sheeran": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/789f12f58063a75411aa391ede444e4a/500x500-000000-80-0-0.jpg",
+        "album": "Gute Nachrichten - Gute Musik",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/b/0/f1becf66c6264a6a0306fc47d47690b0.mp3?hdnea=exp=1783416930~acl=/api/1/1/f/1/b/0/f1becf66c6264a6a0306fc47d47690b0.mp3*~data=user_id=0,application_id=42~hmac=a28dd0269f8e52eef2df585bcd9199a6cd761234791712bd9e7b85f02a3372f3",
+        "deezer_url": "https://www.deezer.com/track/4095922521",
+        "spotify_url": null
+    },
+    "how you like that::blackpink": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/c0901345f73aa977dff53f6cf34e4c17/500x500-000000-80-0-0.jpg",
+        "album": "How You Like That (Japan Version)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/4/0/fa4e9878c24737c7219b40a3e5426e21.mp3?hdnea=exp=1783417543~acl=/api/1/1/f/a/4/0/fa4e9878c24737c7219b40a3e5426e21.mp3*~data=user_id=0,application_id=42~hmac=f9f2814b19f39045c19f674c2ccbd75cd18ca90f74b00c3c9aa755e94b31f2a2",
+        "deezer_url": "https://www.deezer.com/track/1438953482",
+        "spotify_url": null
+    },
+    "quevedo: bzrp music sessions, vol. 52::bizarrap": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/a0655ddf0892c06b30ff9c0ceedc8db8/500x500-000000-80-0-0.jpg",
+        "album": "Quevedo: Bzrp Music Sessions, Vol. 52/66",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/d/0/a9d6db28922af449e14352083b09e42a.mp3?hdnea=exp=1783417544~acl=/api/1/1/a/9/d/0/a9d6db28922af449e14352083b09e42a.mp3*~data=user_id=0,application_id=42~hmac=41ba065c07d228de03ee388423eee8b1b3d343dfcf426fc36dc4ea2374a04abe",
+        "deezer_url": "https://www.deezer.com/track/1811481707",
+        "spotify_url": null
+    },
+    "solo::jennie": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/65d31e358177baeccece59d5fa042334/500x500-000000-80-0-0.jpg",
+        "album": "SOLO",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/9156a861a654df7bb236f7dccc420d4b.mp3?hdnea=exp=1783417544~acl=/api/1/1/9/1/5/0/9156a861a654df7bb236f7dccc420d4b.mp3*~data=user_id=0,application_id=42~hmac=d00fd8fbdb3c89af30ac63d1c0457537f0753a1ac3b26d2e0fa2e2bb0025c578",
+        "deezer_url": "https://www.deezer.com/track/1385135182",
+        "spotify_url": null
+    },
+    "livin' on a prayer::bon jovi": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/91486474e08be18a471c659e2f3e6e55/500x500-000000-80-0-0.jpg",
+        "album": "Slippery When Wet (Deluxe Edition)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/e/0/6ded5b746c584001d224507691353e23.mp3?hdnea=exp=1783417544~acl=/api/1/1/6/d/e/0/6ded5b746c584001d224507691353e23.mp3*~data=user_id=0,application_id=42~hmac=8fdf62a25c4d301fdf201c9d28f15646c7aa1770b44af79a3b28a31eb64fada2",
+        "deezer_url": "https://www.deezer.com/track/3243756031",
+        "spotify_url": null
+    },
+    "shut down::blackpink": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/829041ca92e00531913d918ae0fe3449/500x500-000000-80-0-0.jpg",
+        "album": "BORN PINK",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/5/0/135db5c174da82e7f2733eaa6f90a75f.mp3?hdnea=exp=1783417544~acl=/api/1/1/1/3/5/0/135db5c174da82e7f2733eaa6f90a75f.mp3*~data=user_id=0,application_id=42~hmac=7773533876c80cbcf8258d26369ca4dda1ba08db1d155f7e456ac03a43675f6a",
+        "deezer_url": "https://www.deezer.com/track/1915449047",
+        "spotify_url": null
+    },
+    "i ain't worried::onerepublic": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/476ba35b0a970ccecec17a6d0fa483db/500x500-000000-80-0-0.jpg",
+        "album": "I Ain’t Worried (Versions)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/a/0/35af00f8da8ded8704e080fffe4a44d1.mp3?hdnea=exp=1783417544~acl=/api/1/1/3/5/a/0/35af00f8da8ded8704e080fffe4a44d1.mp3*~data=user_id=0,application_id=42~hmac=8b03a441d9fcbd801af151e8bd27b87886689665ef7b0e2b9fc7861e4200ff20",
+        "deezer_url": "https://www.deezer.com/track/2271545877",
+        "spotify_url": null
+    },
+    "i'm good (blue)::david guetta": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/d396c922b40cfe900ff7f874116049a6/500x500-000000-80-0-0.jpg",
+        "album": "Meme Music - Viral Trending Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/c/0/0bc3b3dce7e62bec0454a8d8a025a828.mp3?hdnea=exp=1783417544~acl=/api/1/1/0/b/c/0/0bc3b3dce7e62bec0454a8d8a025a828.mp3*~data=user_id=0,application_id=42~hmac=5ba3e56c95bf4b94142aaae7c7ce3a20c048e260c46759a337d32399786194e5",
+        "deezer_url": "https://www.deezer.com/track/4095921831",
+        "spotify_url": null
+    },
+    "kanja poovu kannala (from \"viruman\")::yuvan shankar raja": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/d33b1ecf8b25ad433d972cdaf0c61c62/500x500-000000-80-0-0.jpg",
+        "album": "Kanja Poovu Kannala",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/1/0/e61a9316a162f05feeddb2f57539509a.mp3?hdnea=exp=1783417545~acl=/api/1/1/e/6/1/0/e61a9316a162f05feeddb2f57539509a.mp3*~data=user_id=0,application_id=42~hmac=f88234aaf1fc86cedbd677f0bf8c433ba6a6c75d4dba10220df0a2b89f8bc6d8",
+        "deezer_url": "https://www.deezer.com/track/1766197717",
+        "spotify_url": null
+    },
+    "she had me at heads carolina::cole swindell": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/c35766bc4abcc32b057627129158d51c/500x500-000000-80-0-0.jpg",
+        "album": "4th of July Country BBQ",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/2/0/0b2cceb41676df5db267d14b179b1b90.mp3?hdnea=exp=1783417545~acl=/api/1/1/0/b/2/0/0b2cceb41676df5db267d14b179b1b90.mp3*~data=user_id=0,application_id=42~hmac=7a8a10fad6173a171dc5429e66dbe6b0ff03e829f0e5ac9ec4f006528d940e78",
+        "deezer_url": "https://www.deezer.com/track/4109995171",
+        "spotify_url": null
+    },
+    "la bachata::manuel turizo": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/88390e8360f6f28138ab200efd1f9a6f/500x500-000000-80-0-0.jpg",
+        "album": "La Bachata",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/1/0/d818a1bd7f813bfeed0936f4efd3cda2.mp3?hdnea=exp=1783417545~acl=/api/1/1/d/8/1/0/d818a1bd7f813bfeed0936f4efd3cda2.mp3*~data=user_id=0,application_id=42~hmac=34d6af59eba10f67249ddbf603f24302db4ffaa3316e88dcedefa3fbbc9d8fe6",
+        "deezer_url": "https://www.deezer.com/track/1753549417",
+        "spotify_url": null
+    },
+    "dynamite::bts": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/7218df00a126bf159d852516400a1127/500x500-000000-80-0-0.jpg",
+        "album": "BE",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/5/0/aa54c72b731e33f1bce82fb15a286ec9.mp3?hdnea=exp=1783417545~acl=/api/1/1/a/a/5/0/aa54c72b731e33f1bce82fb15a286ec9.mp3*~data=user_id=0,application_id=42~hmac=0edb53565c87783e9494813b84437d2be3bd0a1c4967d1e35a0b4a892c0a9430",
+        "deezer_url": "https://www.deezer.com/track/1560787612",
+        "spotify_url": null
+    },
+    "you give love a bad name::bon jovi": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f8f5309ebb2f6d9a9dc73e279aed5f03/500x500-000000-80-0-0.jpg",
+        "album": "Inside Out",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/b/0/8abe7ce79ef10c310d9b48a0eb0f0d01.mp3?hdnea=exp=1783417545~acl=/api/1/1/8/a/b/0/8abe7ce79ef10c310d9b48a0eb0f0d01.mp3*~data=user_id=0,application_id=42~hmac=8d9dcf7a18c2cfda53ce3635c0c71ec8a6110b2b9466fc472ef553347a2c3c7a",
+        "deezer_url": "https://www.deezer.com/track/2607605082",
+        "spotify_url": null
+    },
+    "me porto bonito::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+        "album": "Un Verano Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/e/0/eee1f040af0d93c63ef745d3dfe5aa0d.mp3?hdnea=exp=1783417545~acl=/api/1/1/e/e/e/0/eee1f040af0d93c63ef745d3dfe5aa0d.mp3*~data=user_id=0,application_id=42~hmac=ca49a03e042248633cc6411b15a04a700b8c10cac8b3538c7253ed27a2c103d1",
+        "deezer_url": "https://www.deezer.com/track/1741494307",
+        "spotify_url": null
+    },
+    "pink venom::blackpink": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/5041986273bf304c5dc3482338fb5545/500x500-000000-80-0-0.jpg",
+        "album": "Pink Venom",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/5/0/5259099276d06eb67b2bcaedc511f30d.mp3?hdnea=exp=1783417545~acl=/api/1/1/5/2/5/0/5259099276d06eb67b2bcaedc511f30d.mp3*~data=user_id=0,application_id=42~hmac=5909ec237a3dd5402144d70d0b7e5c26cd5374702fd33dc9cd4a264dfac8deef",
+        "deezer_url": "https://www.deezer.com/track/1873461807",
+        "spotify_url": null
+    },
+    "tití me preguntó::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+        "album": "Un Verano Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/d/0/c4d8eeec871548b83abe5458fff10fc3.mp3?hdnea=exp=1783417545~acl=/api/1/1/c/4/d/0/c4d8eeec871548b83abe5458fff10fc3.mp3*~data=user_id=0,application_id=42~hmac=34d9bd8e91dec8981978a5b65a33ca7e7d24ad6a18929ad41ea7e272e1555051",
+        "deezer_url": "https://www.deezer.com/track/1741494317",
+        "spotify_url": null
+    },
+    "efecto::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+        "album": "Un Verano Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f539495f3ba38bcf5065811c76d23f.mp3?hdnea=exp=1783417546~acl=/api/1/1/5/5/f/0/55f539495f3ba38bcf5065811c76d23f.mp3*~data=user_id=0,application_id=42~hmac=dae31034e882e7fe0c47b1112b5f0cc64c9f550ae37543e366a88a4e0db60ea3",
+        "deezer_url": "https://www.deezer.com/track/1741494377",
+        "spotify_url": null
+    },
+    "agar tum saath ho::alka yagnik": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/69e0b54a7a5ef007365d5ed73f9923eb/500x500-000000-80-0-0.jpg",
+        "album": "Moody Melodies - Agar Tum Saath Ho",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/4/0/764cfd0c6c4a272a0334958f724c8e79.mp3?hdnea=exp=1783417546~acl=/api/1/1/7/6/4/0/764cfd0c6c4a272a0334958f724c8e79.mp3*~data=user_id=0,application_id=42~hmac=383e0ddb976ecc12029be31b854abf0358c01c444bc449a1150a7b67f50ccd0e",
+        "deezer_url": "https://www.deezer.com/track/3173763621",
+        "spotify_url": null
+    },
+    "can't stop::red hot chili peppers": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/94e1ccc10ec2567cf81fb843ef5a32ec/500x500-000000-80-0-0.jpg",
+        "album": "July 4th Lake Day",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/c/0/ffc7c5e75630f75d1b164d9ec37838e3.mp3?hdnea=exp=1783417546~acl=/api/1/1/f/f/c/0/ffc7c5e75630f75d1b164d9ec37838e3.mp3*~data=user_id=0,application_id=42~hmac=4f48ef1f564b56f3e98e7210841d1a29bf07600b72df351d0792b29fafec72aa",
+        "deezer_url": "https://www.deezer.com/track/4109882701",
+        "spotify_url": null
+    },
+    "ojitos lindos::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+        "album": "Un Verano Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/a/0/3aa7fac0a99662098360da4e6fe79d12.mp3?hdnea=exp=1783417546~acl=/api/1/1/3/a/a/0/3aa7fac0a99662098360da4e6fe79d12.mp3*~data=user_id=0,application_id=42~hmac=d4acdea6f51b3c47512d8f315ebd46bf9c3d89ac7a8d33bfe62bb8aab3a5275d",
+        "deezer_url": "https://www.deezer.com/track/1741494417",
+        "spotify_url": null
+    },
+    "agar tum saath ho (from \"tamasha\")::alka yagnik": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/69e0b54a7a5ef007365d5ed73f9923eb/500x500-000000-80-0-0.jpg",
+        "album": "Moody Melodies - Agar Tum Saath Ho",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/4/0/764cfd0c6c4a272a0334958f724c8e79.mp3?hdnea=exp=1783417546~acl=/api/1/1/7/6/4/0/764cfd0c6c4a272a0334958f724c8e79.mp3*~data=user_id=0,application_id=42~hmac=383e0ddb976ecc12029be31b854abf0358c01c444bc449a1150a7b67f50ccd0e",
+        "deezer_url": "https://www.deezer.com/track/3173763621",
+        "spotify_url": null
+    },
+    "take on me::a ha": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/6def5f55eda7a72323105a4af14c8f16/500x500-000000-80-0-0.jpg",
+        "album": "Workout 80's",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/0/0/04000928fc4c9aa29a423279c9160803.mp3?hdnea=exp=1783417546~acl=/api/1/1/0/4/0/0/04000928fc4c9aa29a423279c9160803.mp3*~data=user_id=0,application_id=42~hmac=ed6a33ca4b82bf6bcaddb361dd4da7bd132a70dd91574e487c340b1958a56e6c",
+        "deezer_url": "https://www.deezer.com/track/1103323762",
+        "spotify_url": null
+    },
+    "moscow mule::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+        "album": "Un Verano Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/8/0/488f08cd8e38027da5147e7fcf87fa24.mp3?hdnea=exp=1783417547~acl=/api/1/1/4/8/8/0/488f08cd8e38027da5147e7fcf87fa24.mp3*~data=user_id=0,application_id=42~hmac=49255b514d22f47465f1068e87c438b8307a405c05008c0c69bb7fb4b625d5e2",
+        "deezer_url": "https://www.deezer.com/track/1741494287",
+        "spotify_url": null
+    },
+    "shinunoga e wa::fujii kaze": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/8a47e0ece0ce4082863c6c84872c47a3/500x500-000000-80-0-0.jpg",
+        "album": "Fujii Kaze Stadium Live “Feelin' Good”",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/4/0/bb4502df3b6428294c6ce92759b806b9.mp3?hdnea=exp=1783417547~acl=/api/1/1/b/b/4/0/bb4502df3b6428294c6ce92759b806b9.mp3*~data=user_id=0,application_id=42~hmac=088d2a0b74f8dc9a00d41ab88c99935c0951d117c450aea32b198240e1c18069",
+        "deezer_url": "https://www.deezer.com/track/3069566051",
+        "spotify_url": null
+    },
+    "supermodel::måneskin": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/bf544547e608046f6c4f1f9681a6d068/500x500-000000-80-0-0.jpg",
+        "album": "SUPERMODEL",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/b/0/dbb2ba0ee0a07ad886f0dd87452862ac.mp3?hdnea=exp=1783417547~acl=/api/1/1/d/b/b/0/dbb2ba0ee0a07ad886f0dd87452862ac.mp3*~data=user_id=0,application_id=42~hmac=977cc87158228b2095c2f75f30dd7e24dbf65fd11885c1a6ce61fd8dc302b35b",
+        "deezer_url": "https://www.deezer.com/track/1748828657",
+        "spotify_url": null
+    },
+    "smells like teen spirit::nirvana": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f0282817b697279e56df13909962a54a/500x500-000000-80-0-0.jpg",
+        "album": "Nevermind (Remastered)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/b/0/34bad352aa1aa0f8eecbbc9c27a40eaf.mp3?hdnea=exp=1783417547~acl=/api/1/1/3/4/b/0/34bad352aa1aa0f8eecbbc9c27a40eaf.mp3*~data=user_id=0,application_id=42~hmac=1774bfcdda08b64da597187885ae41d9aa24d51b65ec00dd838553c7fd63ea66",
+        "deezer_url": "https://www.deezer.com/track/13791930",
+        "spotify_url": null
+    },
+    "old town road   remix::lil nas x": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/cfdfd0c9b98034222500a69f40301f32/500x500-000000-80-0-0.jpg",
+        "album": "Old Town Road (Diplo Remix)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/6/0/7261a07616c22b7e94a94944fd4b24a2.mp3?hdnea=exp=1783417557~acl=/api/1/1/7/2/6/0/7261a07616c22b7e94a94944fd4b24a2.mp3*~data=user_id=0,application_id=42~hmac=9ceab56529badee76c802a5c1b5451af204ac9bba9b94f20313cb6a4e95b2318",
+        "deezer_url": "https://www.deezer.com/track/671579702",
+        "spotify_url": null
+    },
+    "arabic kuthu   halamithi habibo (from \"beast\")::anirudh ravichander": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/76c583fa31394f2518636e67fda7798c/500x500-000000-80-0-0.jpg",
+        "album": "Arabic Kuthu - Halamithi Habibo (From \"Beast\")",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/2/0/ae248490ee2f98bc9c49620b520a8337.mp3?hdnea=exp=1783417558~acl=/api/1/1/a/e/2/0/ae248490ee2f98bc9c49620b520a8337.mp3*~data=user_id=0,application_id=42~hmac=e342961635bec0dd5072a3096e22dc6a29508c6bf3b72696c80fb9798d91b877",
+        "deezer_url": "https://www.deezer.com/track/1655112242",
+        "spotify_url": null
+    },
+    "sirikkalam parakkalam::benny dayal": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/e492999483ebd7bcbd19482cc6ebca61/500x500-000000-80-0-0.jpg",
+        "album": "Tamil Dance Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/e/0/14eec77ee6a09aa0bba426be0fe4643c.mp3?hdnea=exp=1783417559~acl=/api/1/1/1/4/e/0/14eec77ee6a09aa0bba426be0fe4643c.mp3*~data=user_id=0,application_id=42~hmac=6adae3161f21fc9259bf0a29ae4ff3273d7fb9110148ef0c57528ecf39043a92",
+        "deezer_url": "https://www.deezer.com/track/3816483222",
+        "spotify_url": null
+    },
+    "takkunu takkunu   from \"mr. local\"::hiphop tamizha": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/636e3a105e56187e3a4b3d1c291ff522/500x500-000000-80-0-0.jpg",
+        "album": "Dance Beats",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/4/0/dc44a217454b04fa438e117f25911922.mp3?hdnea=exp=1783417559~acl=/api/1/1/d/c/4/0/dc44a217454b04fa438e117f25911922.mp3*~data=user_id=0,application_id=42~hmac=de2b729d52abfe87ca02b0b2dc09ba5daec0bcc4e3c88c58f5ca9ad97a320864",
+        "deezer_url": "https://www.deezer.com/track/4024022571",
+        "spotify_url": null
+    },
+    "ethir neechal::anirudh ravichander": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/a3a1a8be4983a54ebba1afa6ab657102/500x500-000000-80-0-0.jpg",
+        "album": "Best of Bollywood & Tamil",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/e/0/c5efbea33b7ca72c4585af2ea99c337c.mp3?hdnea=exp=1783417560~acl=/api/1/1/c/5/e/0/c5efbea33b7ca72c4585af2ea99c337c.mp3*~data=user_id=0,application_id=42~hmac=ad8248f4079f7fcb393cdb59118627fc91846ea32ca019ae67ee62ed0db6b12c",
+        "deezer_url": "https://www.deezer.com/track/137723995",
+        "spotify_url": null
+    },
+    "sohnea::miss pooja": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/fa81be68f855d556683fe966a21ff880/500x500-000000-80-0-0.jpg",
+        "album": "Miss Pooja - Kudi Punjab Di",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/c/0/c4c8299091ea066fe3b2a1ae0c429882.mp3?hdnea=exp=1783417560~acl=/api/1/1/c/4/c/0/c4c8299091ea066fe3b2a1ae0c429882.mp3*~data=user_id=0,application_id=42~hmac=3892d8bbe912e163303a941f7060de2bdb353ff06f3627a2a933b8308f6c9ded",
+        "deezer_url": "https://www.deezer.com/track/526850392",
+        "spotify_url": null
+    },
+    "once upon a time::anirudh ravichander": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f0dcf40d6473e34e973fa7577c7c7e5b/500x500-000000-80-0-0.jpg",
+        "album": "Vikram (Original Motion Picture Soundtrack)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/1/0/f0176cb0ef01a6b61580cffae02b10f6.mp3?hdnea=exp=1783417561~acl=/api/1/1/f/0/1/0/f0176cb0ef01a6b61580cffae02b10f6.mp3*~data=user_id=0,application_id=42~hmac=495ff69caabaf984beb015dd2e43f3e2e61de51093f9212e193b6915b7316058",
+        "deezer_url": "https://www.deezer.com/track/1752206997",
+        "spotify_url": null
+    },
+    "one dance::drake": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/56bdb7a86a27fadb96332c0c8f1b8e81/500x500-000000-80-0-0.jpg",
+        "album": "Views",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/b/0/7ab0602a95834e7862f7ef2ee5389d88.mp3?hdnea=exp=1783417561~acl=/api/1/1/7/a/b/0/7ab0602a95834e7862f7ef2ee5389d88.mp3*~data=user_id=0,application_id=42~hmac=ddc1c01a4c2d42854e8eb435ee9980319b8b69c7ca33047fe89f8acc7fb614e8",
+        "deezer_url": "https://www.deezer.com/track/124603270",
+        "spotify_url": null
+    },
+    "celebrity killer (feat. tion wayne)::sidhu moose wala": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/fb6aff16c7949105369a088f1914ab2a/500x500-000000-80-0-0.jpg",
+        "album": "Moosetape",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/7/0/757b54161adb8a77383ac7e3171ae0f6.mp3?hdnea=exp=1783417562~acl=/api/1/1/7/5/7/0/757b54161adb8a77383ac7e3171ae0f6.mp3*~data=user_id=0,application_id=42~hmac=54f77a09a862298898de523915c6f8ae4cbf74a7a7088f3f9d4fae8898afd7bf",
+        "deezer_url": "https://www.deezer.com/track/3461187241",
+        "spotify_url": null
+    },
+    "bae (from \"don\")::anirudh ravichander": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/cb43e1f9aad5408f5e676d1e0356a476/500x500-000000-80-0-0.jpg",
+        "album": "Bae",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/3/0/673b1f2b5d5a31d0bdc813d81ba7b742.mp3?hdnea=exp=1783417562~acl=/api/1/1/6/7/3/0/673b1f2b5d5a31d0bdc813d81ba7b742.mp3*~data=user_id=0,application_id=42~hmac=7a66064667cf493cc9d9028958e70810f3cfede857750bc54f7346ea39ba8919",
+        "deezer_url": "https://www.deezer.com/track/1643685412",
+        "spotify_url": null
+    },
+    "ishq tera::guru randhawa": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/74f07d1f67ae74a319b68aaf65439886/500x500-000000-80-0-0.jpg",
+        "album": "Ishq Tera Lofi Mix",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/e/0/1de21e31e63a45c3b1fe9410d120dae8.mp3?hdnea=exp=1783417563~acl=/api/1/1/1/d/e/0/1de21e31e63a45c3b1fe9410d120dae8.mp3*~data=user_id=0,application_id=42~hmac=9332ddbddb4b7395903497c9412d1be69f24a91d6bf92acb2a72f386b73002af",
+        "deezer_url": "https://www.deezer.com/track/4055019171",
+        "spotify_url": null
+    },
+    "gulabi::sachin jigar": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/7cb85dc04cb301f389d2711cceabfcf3/500x500-000000-80-0-0.jpg",
+        "album": "Soulful Melodies - Saxophone Version",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/1/0/2113690eb8ec45f2f9379e9241863dbd.mp3?hdnea=exp=1783417563~acl=/api/1/1/2/1/1/0/2113690eb8ec45f2f9379e9241863dbd.mp3*~data=user_id=0,application_id=42~hmac=436b0299f6a904e368ebe3032b5dfc867e1daf971588e773e4c9688fefac9704",
+        "deezer_url": "https://www.deezer.com/track/1429121882",
+        "spotify_url": null
+    },
+    "billie eilish.::armani white": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/eca63be1d997fce9c07abeb4f144fdea/500x500-000000-80-0-0.jpg",
+        "album": "Road to CASABLANCO.",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/6/0/ee63bb3a698c69c8eb52fbea85b65492.mp3?hdnea=exp=1783417574~acl=/api/1/1/e/e/6/0/ee63bb3a698c69c8eb52fbea85b65492.mp3*~data=user_id=0,application_id=42~hmac=fbaa5a844916644340e96f9c53fc3ae4dd0c08c5824b66b3d5cec5511af1ae0b",
+        "deezer_url": "https://www.deezer.com/track/2256780457",
+        "spotify_url": null
+    },
+    "the real slim shady::eminem": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/e2b36a9fda865cb2e9ed1476b6291a7d/500x500-000000-80-0-0.jpg",
+        "album": "Curtain Call: The Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/8/0/8884d70117209dbf5b9df927eda209da.mp3?hdnea=exp=1783417574~acl=/api/1/1/8/8/8/0/8884d70117209dbf5b9df927eda209da.mp3*~data=user_id=0,application_id=42~hmac=3a955d515fdb9256a6f530f2afad8b7ba2ef308ca1bdb2bb2bd822f353fa655d",
+        "deezer_url": "https://www.deezer.com/track/1109737",
+        "spotify_url": null
+    },
+    "heart shaped box::nirvana": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/4d0dfaf6d522f5323aebcc85903d92ac/500x500-000000-80-0-0.jpg",
+        "album": "In Utero",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/9/0/c39f01809050b9080daec9ef63c20e9d.mp3?hdnea=exp=1783417574~acl=/api/1/1/c/3/9/0/c39f01809050b9080daec9ef63c20e9d.mp3*~data=user_id=0,application_id=42~hmac=6cc93374122ea0f8909dd7d34a369ab399fc732fb760cd14027cfdb6986fe4c7",
+        "deezer_url": "https://www.deezer.com/track/70466227",
+        "spotify_url": null
+    },
+    "bam bam (feat. ed sheeran)::camila cabello": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/410fbc0310872a5662e8fbb67f20fbc5/500x500-000000-80-0-0.jpg",
+        "album": "Familia",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/e/0/67e8d3bc71c223977b09b07d25f569cd.mp3?hdnea=exp=1783417574~acl=/api/1/1/6/7/e/0/67e8d3bc71c223977b09b07d25f569cd.mp3*~data=user_id=0,application_id=42~hmac=bf9060a9b2e3d713ac2aae5e6ef9a157c77adebc61ca274c6f9f84a2da4bfed2",
+        "deezer_url": "https://www.deezer.com/track/1708514107",
+        "spotify_url": null
+    },
+    "shallow::lady gaga": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/88a8288e14f61ffa39c14ac2ef9210d8/500x500-000000-80-0-0.jpg",
+        "album": "A Star Is Born Soundtrack",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/8/0/5c893bebee36adefcc193a36c6d6783f.mp3?hdnea=exp=1783417575~acl=/api/1/1/5/c/8/0/5c893bebee36adefcc193a36c6d6783f.mp3*~data=user_id=0,application_id=42~hmac=10566f24cad5a1c92224b6fe8f8b8b72a7846a20ca89b53962897cab4346569d",
+        "deezer_url": "https://www.deezer.com/track/561855992",
+        "spotify_url": null
+    },
+    "shape of a dream::sailors of the 7 seas": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/886076ec1ffbee62e8e893aba8905f6e/500x500-000000-80-0-0.jpg",
+        "album": "Shape Of A Dream",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/a/0/b2a49bcc2c93bb9fa88d895586911b95.mp3?hdnea=exp=1783417575~acl=/api/1/1/b/2/a/0/b2a49bcc2c93bb9fa88d895586911b95.mp3*~data=user_id=0,application_id=42~hmac=df28b2e54216b599e1cf3c8738a836f3073c010a88b6770695526fa577955c92",
+        "deezer_url": "https://www.deezer.com/track/1540101972",
+        "spotify_url": null
+    },
+    "bedshaped::keane": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/7fff60dcf41f96815208acd2def1cab4/500x500-000000-80-0-0.jpg",
+        "album": "Hopeful and Fearless",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/b/0/d9ba8d3964621abddab38d51e68a6e8a.mp3?hdnea=exp=1783417575~acl=/api/1/1/d/9/b/0/d9ba8d3964621abddab38d51e68a6e8a.mp3*~data=user_id=0,application_id=42~hmac=83aeb25a7c915918f5bc03e0f3d492bbea7a2c687e4c27d3ef1950600b046d3e",
+        "deezer_url": "https://www.deezer.com/track/1410158742",
+        "spotify_url": null
+    },
+    "shut up and dance::walk the moon": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/daecc673a8dd260e38f37ccab309b996/500x500-000000-80-0-0.jpg",
+        "album": "Shut Up And Dance (Acoustic)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/9/0/f79657ea2416ce8b1e124cabde765fc9.mp3?hdnea=exp=1783417575~acl=/api/1/1/f/7/9/0/f79657ea2416ce8b1e124cabde765fc9.mp3*~data=user_id=0,application_id=42~hmac=ddb683248e1b1c88dcd631d21efaed5e4c55002a9c5af7cb5c415cc6927b1984",
+        "deezer_url": "https://www.deezer.com/track/106754614",
+        "spotify_url": null
+    },
+    "interlude   shapeless remix::blazy": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/a8c2bafddbffe5c76d667f7ec3b0455c/500x500-000000-80-0-0.jpg",
+        "album": "Interlude",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/8/0/eb8af8a6c6b2a50f1855b8c6d5da9d71.mp3?hdnea=exp=1783417576~acl=/api/1/1/e/b/8/0/eb8af8a6c6b2a50f1855b8c6d5da9d71.mp3*~data=user_id=0,application_id=42~hmac=56f8df8724e73f82c29ae8ba54f05b4baf9a6576149e4770e466cfcf46d32e43",
+        "deezer_url": "https://www.deezer.com/track/653427192",
+        "spotify_url": null
+    },
+    "love me like you do   from \"fifty shades of grey\"::ellie goulding": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b8e79386501953dbe62d70cd38373c0d/500x500-000000-80-0-0.jpg",
+        "album": "Fifty Shades Of Grey Remixed",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/3/0/d03c698684243b4b9f3310c331e40886.mp3?hdnea=exp=1783417576~acl=/api/1/1/d/0/3/0/d03c698684243b4b9f3310c331e40886.mp3*~data=user_id=0,application_id=42~hmac=16b3b429b006c8346ca1219e533deff1f712e3f7900cd8d3145d0479e8c2176a",
+        "deezer_url": "https://www.deezer.com/track/99111704",
+        "spotify_url": null
+    },
+    "shape of you   rock::our last night": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/fd94a6747281476c43b7f0c4e1a2fffc/500x500-000000-80-0-0.jpg",
+        "album": "Shape of You (Rock)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/e/0/36e0e02f7bdd43e0608758f57625be79.mp3?hdnea=exp=1783417577~acl=/api/1/1/3/6/e/0/36e0e02f7bdd43e0608758f57625be79.mp3*~data=user_id=0,application_id=42~hmac=506c68999077d52900d9ddf9ead6426f3e459ce976531fcc5f0ac849f736af6a",
+        "deezer_url": "https://www.deezer.com/track/3657057162",
+        "spotify_url": null
+    },
+    "raataan lambiyan (from \"shershaah\")::tanishk bagchi": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/971ade4760de40dcf13ae4fec8731d34/500x500-000000-80-0-0.jpg",
+        "album": "Raataan Lambiyan",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/d/0/cfd22dabc99882d45dbb93f51b9d905d.mp3?hdnea=exp=1783417576~acl=/api/1/1/c/f/d/0/cfd22dabc99882d45dbb93f51b9d905d.mp3*~data=user_id=0,application_id=42~hmac=c63c89dad605f82206f41f7b2da013b1a67bc606ea3794233387b18e549e723c",
+        "deezer_url": "https://www.deezer.com/track/1449573412",
+        "spotify_url": null
+    },
+    "shape of you   abheri   shudha dhanyasi   adi tala   carnatic mix::indianraga": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/4bfcc84a26c3b4f73735be397949ccf4/500x500-000000-80-0-0.jpg",
+        "album": "Shape of You",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/d/0/3fd3ce15642775ac2b8572568ebb3a54.mp3?hdnea=exp=1783417577~acl=/api/1/1/3/f/d/0/3fd3ce15642775ac2b8572568ebb3a54.mp3*~data=user_id=0,application_id=42~hmac=3fc79fddbb6aa5867e4d45638535a23557e1396baaebcbd4b9a72b02b9387e20",
+        "deezer_url": "https://www.deezer.com/track/2484179101",
+        "spotify_url": null
+    },
+    "naah::harrdy sandhu": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/0a65b7feab0c92b79afcbdd76b76c37c/500x500-000000-80-0-0.jpg",
+        "album": "Jaani X Harrdy Sandhu - Mega Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/2/0/582f3d8d8cb9a665576ba7912b25e9bd.mp3?hdnea=exp=1783417579~acl=/api/1/1/5/8/2/0/582f3d8d8cb9a665576ba7912b25e9bd.mp3*~data=user_id=0,application_id=42~hmac=b42f3ebc07ce5389f2e3f1f20f71a28e10041d25ae3299aeed7635c489f491a6",
+        "deezer_url": "https://www.deezer.com/track/2877732692",
+        "spotify_url": null
+    },
+    "shape of you::andrew foy": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/8bdde804dd443fc6afc65fe73184f33f/500x500-000000-80-0-0.jpg",
+        "album": "Best Covers",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/a/0/45a5b326574a10497f63fa3714a2d74e.mp3?hdnea=exp=1783417579~acl=/api/1/1/4/5/a/0/45a5b326574a10497f63fa3714a2d74e.mp3*~data=user_id=0,application_id=42~hmac=44008e55837e52b7b602bd4e98c3c73a449427e6d111d9080d65036a4f4b8fb3",
+        "deezer_url": "https://www.deezer.com/track/1637425812",
+        "spotify_url": null
+    },
+    "there's nothing holdin' me back::shawn mendes": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/c5901e1a8fda54201a86e3a7cb28dfff/500x500-000000-80-0-0.jpg",
+        "album": "Best Karaoke Songs Ever",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/d/0/8bd95b1568be0c87a329e1af5270d674.mp3?hdnea=exp=1783417580~acl=/api/1/1/8/b/d/0/8bd95b1568be0c87a329e1af5270d674.mp3*~data=user_id=0,application_id=42~hmac=e6eaae9a220d916bce3dd48b49d12e927ea03459fc77332aab92e5c74bc5ada4",
+        "deezer_url": "https://www.deezer.com/track/3981933681",
+        "spotify_url": null
+    },
+    "bijlee bijlee::harrdy sandhu": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b24ed452012ad5691a76408805a22f1d/500x500-000000-80-0-0.jpg",
+        "album": "Bijlee Bijlee",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/a/0/f8a881062a1b59bb961058dac08d3cdb.mp3?hdnea=exp=1783417580~acl=/api/1/1/f/8/a/0/f8a881062a1b59bb961058dac08d3cdb.mp3*~data=user_id=0,application_id=42~hmac=ff3893f46f96edf5cbf93b41a8ee9eead8a2397d82f955f33a53d4ba6f088620",
+        "deezer_url": "https://www.deezer.com/track/1530479842",
+        "spotify_url": null
+    },
+    "attention::charlie puth": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/bbfffcaa30b0ac1326bcb26321eb96e7/500x500-000000-80-0-0.jpg",
+        "album": "Internet Gold",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/4/0/4143f2d91f121a1b466e43836608f80c.mp3?hdnea=exp=1783417581~acl=/api/1/1/4/1/4/0/4143f2d91f121a1b466e43836608f80c.mp3*~data=user_id=0,application_id=42~hmac=b05403db57b5dc5a6ee989a7c4df9e4c0b90b53309c519a56c4a64611ff1f6d6",
+        "deezer_url": "https://www.deezer.com/track/4088183771",
+        "spotify_url": null
+    },
+    "summer high::ap dhillon": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/9e9c694d78b3d11806569a975afed039/500x500-000000-80-0-0.jpg",
+        "album": "Summer High",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/c/0/3ec9c687d46b9acc267e4397619c6a34.mp3?hdnea=exp=1783417581~acl=/api/1/1/3/e/c/0/3ec9c687d46b9acc267e4397619c6a34.mp3*~data=user_id=0,application_id=42~hmac=b81f5f469da7432af9569777eeddf3e6d19b5eeab8e8bd33b9b826b9ea894d4a",
+        "deezer_url": "https://www.deezer.com/track/1849754807",
+        "spotify_url": null
+    },
+    "mitti de tibbe::kaka": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/36bb947539de4b6b8375d1d47a189c20/500x500-000000-80-0-0.jpg",
+        "album": "Mitti De Tibbe (Hip Hop Mix)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/c/0/8bca6b3d8f8d433bbee916cfee195efe.mp3?hdnea=exp=1783417582~acl=/api/1/1/8/b/c/0/8bca6b3d8f8d433bbee916cfee195efe.mp3*~data=user_id=0,application_id=42~hmac=acf44c69012f915c21304dd731082c867faaee6f6ecf0962e2a18ec7970dd18b",
+        "deezer_url": "https://www.deezer.com/track/3106359581",
+        "spotify_url": null
+    },
+    "kya baat ay::harrdy sandhu": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/0a65b7feab0c92b79afcbdd76b76c37c/500x500-000000-80-0-0.jpg",
+        "album": "Jaani X Harrdy Sandhu - Mega Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/d/0/71d0ce0ac94f731ded791e3dcfd2211d.mp3?hdnea=exp=1783417583~acl=/api/1/1/7/1/d/0/71d0ce0ac94f731ded791e3dcfd2211d.mp3*~data=user_id=0,application_id=42~hmac=2d73b16edadba7537b57fe2dd89ec23ce178a617bec5e534f6c610555d46cfd0",
+        "deezer_url": "https://www.deezer.com/track/2877732632",
+        "spotify_url": null
+    },
+    "kya mujhe pyar hai::kk": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/dd1d678cfeea829c3aff1682c02d842f/500x500-000000-80-0-0.jpg",
+        "album": "Kya Mujhe Pyar Hai Lofi Mix",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/f/0/10f152d053fb36b655e27e7673724f13.mp3?hdnea=exp=1783417583~acl=/api/1/1/1/0/f/0/10f152d053fb36b655e27e7673724f13.mp3*~data=user_id=0,application_id=42~hmac=1dcd78a4a4b05aec669e7b7b16cc29987caaa0bd02a1061d109f544aa214eb22",
+        "deezer_url": "https://www.deezer.com/track/3172552241",
+        "spotify_url": null
+    },
+    "thenmozhi (from \"thiruchitrambalam\")::santhosh narayanan": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/115aab223fdc3a2df63ea253ff7cbb74/500x500-000000-80-0-0.jpg",
+        "album": "Thenmozhi (From \"Thiruchitrambalam\")",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/e/0/75e668e06334e4d269b68fd1a4e72187.mp3?hdnea=exp=1783417584~acl=/api/1/1/7/5/e/0/75e668e06334e4d269b68fd1a4e72187.mp3*~data=user_id=0,application_id=42~hmac=e2e047d6a70a8715a09ae5e6e1fc7859b4c15626fb4fd2aa303c53f3f7cd0510",
+        "deezer_url": "https://www.deezer.com/track/1845779997",
+        "spotify_url": null
+    },
+    "lover::diljit dosanjh": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/a8cf2b35efa2c9a9bc1c9b0bcbee93ca/500x500-000000-80-0-0.jpg",
+        "album": "MoonChild Era",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/1/0/d71e4b97daf59ad619475d2635fbe024.mp3?hdnea=exp=1783417585~acl=/api/1/1/d/7/1/0/d71e4b97daf59ad619475d2635fbe024.mp3*~data=user_id=0,application_id=42~hmac=163a0badb2632015cce1ab912655e4b2e79bf5b3c022ab473fa54f87fa842c9a",
+        "deezer_url": "https://www.deezer.com/track/1461745672",
+        "spotify_url": null
+    },
+    "levitating::dua lipa": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/5ca4581007422c3dae4d2ac9e80e0353/500x500-000000-80-0-0.jpg",
+        "album": "Piątkowy vibe",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/5/0/9c570bc806fc277bb73ba024e956d057.mp3?hdnea=exp=1783417585~acl=/api/1/1/9/c/5/0/9c570bc806fc277bb73ba024e956d057.mp3*~data=user_id=0,application_id=42~hmac=dbffa079cba46cb30413e22f108a3c31ceb82432887f46e724691c353b014603",
+        "deezer_url": "https://www.deezer.com/track/4105122291",
+        "spotify_url": null
+    },
+    "bad habits::ed sheeran": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/d1e2f75aec992016834e58323b7d9f0b/500x500-000000-80-0-0.jpg",
+        "album": "Ed Sheeran - Piano Covers",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/0/0/6506edd812a907243d346fb67416c582.mp3?hdnea=exp=1783417641~acl=/api/1/1/6/5/0/0/6506edd812a907243d346fb67416c582.mp3*~data=user_id=0,application_id=42~hmac=3126a91ca34a6a1e710c45d0a53c5f5cd1a0b5b22101b543f5bc4ff38861fc68",
+        "deezer_url": "https://www.deezer.com/track/2282107717",
+        "spotify_url": null
+    },
+    "perfect::ed sheeran": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/fc945f5d9dc16141959d693ecb643cdb/500x500-000000-80-0-0.jpg",
+        "album": "Noël Love 2026",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/3/0/f1325f089fd1f0f72b291014f20dcc4a.mp3?hdnea=exp=1783417641~acl=/api/1/1/f/1/3/0/f1325f089fd1f0f72b291014f20dcc4a.mp3*~data=user_id=0,application_id=42~hmac=3fd842b0e3e788ac7b1e5051e83bcf1b9d31d191919d473217a3d95d8c3634cd",
+        "deezer_url": "https://www.deezer.com/track/2894607731",
+        "spotify_url": null
+    },
+    "photograph::ed sheeran": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/d87e1b5b072465ac844ece81c41a240e/500x500-000000-80-0-0.jpg",
+        "album": "Photograph (Smooth piano cover version)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/0/0/08054cf5325f6473962f1cacdc2caeb0.mp3?hdnea=exp=1783417642~acl=/api/1/1/0/8/0/0/08054cf5325f6473962f1cacdc2caeb0.mp3*~data=user_id=0,application_id=42~hmac=f10c2e77fb6dd3015d0f6b37fa66a38a4ca7ec1a5d5afc5d967c3aa23fc0d16b",
+        "deezer_url": "https://www.deezer.com/track/2431105085",
+        "spotify_url": null
+    },
+    "for my hand (feat. ed sheeran)::burna boy": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/df962e961dca44b1f7d3dccfe8c5950e/500x500-000000-80-0-0.jpg",
+        "album": "Midnight Afro Beats",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/3/0/bb3fc9bdcb6729877384fb022a4c3102.mp3?hdnea=exp=1783417642~acl=/api/1/1/b/b/3/0/bb3fc9bdcb6729877384fb022a4c3102.mp3*~data=user_id=0,application_id=42~hmac=8f9a191aade94c1240350d50a6db54c61e442d2ceb8f14a2fc0a7b735b06165a",
+        "deezer_url": "https://www.deezer.com/track/4121507431",
+        "spotify_url": null
+    },
+    "call on me (feat. ed sheeran)::vianney": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/36f0d4eba755d9e6201645d256996b12/500x500-000000-80-0-0.jpg",
+        "album": "Call on me (feat. Ed Sheeran)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/f/0/82f1c083358a533a076a3f79ba8db865.mp3?hdnea=exp=1783417643~acl=/api/1/1/8/2/f/0/82f1c083358a533a076a3f79ba8db865.mp3*~data=user_id=0,application_id=42~hmac=d15c9480699dfb49a89aa3b2282529e655fd9d8949e6dc2ef153cfe28c451898",
+        "deezer_url": "https://www.deezer.com/track/1938433187",
+        "spotify_url": null
+    },
+    "peru   r3hab remix::fireboy dml": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/bb315803b639afc1a2596edad0fd541c/500x500-000000-80-0-0.jpg",
+        "album": "Peru (R3HAB Remix)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/1/0/291b7066dca1ac70917a540fdff050eb.mp3?hdnea=exp=1783417643~acl=/api/1/1/2/9/1/0/291b7066dca1ac70917a540fdff050eb.mp3*~data=user_id=0,application_id=42~hmac=eba00e0f17de3ba9960a1becaeab23105e8d240f339181dc0ca3af8655c70ad7",
+        "deezer_url": "https://www.deezer.com/track/1668254392",
+        "spotify_url": null
+    },
+    "guiding light::foy vance": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/86bb263205b951927d04299fb4bea6d0/500x500-000000-80-0-0.jpg",
+        "album": "Joy of Nothing (Anniversary Edition)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/2/0/0d2db332f73a6d1619ce16baa55342c6.mp3?hdnea=exp=1783417645~acl=/api/1/1/0/d/2/0/0d2db332f73a6d1619ce16baa55342c6.mp3*~data=user_id=0,application_id=42~hmac=e3f97113a9bc741aeac25718510efba56dd6d84dc2f801242615cf8fd8af8396",
+        "deezer_url": "https://www.deezer.com/track/3025696251",
+        "spotify_url": null
+    },
+    "merry christmas::ed sheeran": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/56cb78ae5024f6ebb85406d6d95ad452/500x500-000000-80-0-0.jpg",
+        "album": "Buon Natale 2026",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/2/0/ea214f494a35e9a06987f60bc2d84ade.mp3?hdnea=exp=1783417646~acl=/api/1/1/e/a/2/0/ea214f494a35e9a06987f60bc2d84ade.mp3*~data=user_id=0,application_id=42~hmac=ed1bc125e46c10ae133bd2a882a88740d2bfe446fd0b7828b168cad916c705dc",
+        "deezer_url": "https://www.deezer.com/track/3068170461",
+        "spotify_url": null
+    },
+    "havana (feat. young thug)::camila cabello": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/824145a71e397185d8a1abe57842430c/500x500-000000-80-0-0.jpg",
+        "album": "Camila",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/9/0/b19a0e36acb2526676f68f031023d66f.mp3?hdnea=exp=1783417690~acl=/api/1/1/b/1/9/0/b19a0e36acb2526676f68f031023d66f.mp3*~data=user_id=0,application_id=42~hmac=f72ac6d513c955cffd1cc32adc5be1c409a50915c965e119161e50e85360596a",
+        "deezer_url": "https://www.deezer.com/track/447098092",
+        "spotify_url": null
+    },
+    "my oh my (feat. dababy)::camila cabello": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/5cdfa4a16540fcc34ec7335e3ad59922/500x500-000000-80-0-0.jpg",
+        "album": "Romance",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/4/0/c745a298910268b0c9f598c2748fb342.mp3?hdnea=exp=1783417690~acl=/api/1/1/c/7/4/0/c745a298910268b0c9f598c2748fb342.mp3*~data=user_id=0,application_id=42~hmac=5b53b4cc3a774eb881a0bb6163e015b057ec98ca0a7378e487bd0cd40626a2a3",
+        "deezer_url": "https://www.deezer.com/track/823567772",
+        "spotify_url": null
+    },
+    "dark horse::katy perry": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/fe781ecd9879a82beed80f6d3e80745b/500x500-000000-80-0-0.jpg",
+        "album": "PRISM (Deluxe)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/8/0/dc80a4e6333cf463cade1b83f0143c09.mp3?hdnea=exp=1783417690~acl=/api/1/1/d/c/8/0/dc80a4e6333cf463cade1b83f0143c09.mp3*~data=user_id=0,application_id=42~hmac=928250c8eded33823efea1ffc2419ab28b37afef7f22e16a93ef5df5a2e93333",
+        "deezer_url": "https://www.deezer.com/track/71645436",
+        "spotify_url": null
+    },
+    "frozen::madonna": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/e04bcb040bd7a79fa6c735ddb68dc2db/500x500-000000-80-0-0.jpg",
+        "album": "Dance Kingdom 3 Mix-2 (舞曲大帝王國)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/9/0/579c4b7c7ac3dbeacbe55dcdcd9ffdda.mp3?hdnea=exp=1783417691~acl=/api/1/1/5/7/9/0/579c4b7c7ac3dbeacbe55dcdcd9ffdda.mp3*~data=user_id=0,application_id=42~hmac=fe8b65a450cd3c0ce364df0320865c889580d2c331d73bdf5fb0f470ec84df61",
+        "deezer_url": "https://www.deezer.com/track/1329445542",
+        "spotify_url": null
+    },
+    "one last time::ariana grande": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/6caa50520474e0217b81cb71bfdcd920/500x500-000000-80-0-0.jpg",
+        "album": "One Last Time",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/9/0/0f99b3c96c2022019937f2c34cfbe1f7.mp3?hdnea=exp=1783417692~acl=/api/1/1/0/f/9/0/0f99b3c96c2022019937f2c34cfbe1f7.mp3*~data=user_id=0,application_id=42~hmac=b8e14a04a9e95462a782a29e8c7a49b7f93b806ea3c23c0419d910a612532568",
+        "deezer_url": "https://www.deezer.com/track/2958962751",
+        "spotify_url": null
+    },
+    "love you zindagi::amit trivedi": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/02bd7a0d10a4959348c978cd3a301ad2/500x500-000000-80-0-0.jpg",
+        "album": "Dear Zindagi (Original Motion Picture Soundtrack)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/f/0/66f0977f5f4247292cf6cea9a36bd4d2.mp3?hdnea=exp=1783417692~acl=/api/1/1/6/6/f/0/66f0977f5f4247292cf6cea9a36bd4d2.mp3*~data=user_id=0,application_id=42~hmac=5259497767d7722d7d894932170d7f35a0ed5832ee62eb6cb7da4f45ba15f203",
+        "deezer_url": "https://www.deezer.com/track/136133770",
+        "spotify_url": null
+    },
+    "ve maahi::arijit singh": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/5e2aaa0f0a9b4bccfdf01c447f2e169c/500x500-000000-80-0-0.jpg",
+        "album": "Baarish Bollywood Mix",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/e/0/b6e5c2055f3cf9907429372b175d0ca4.mp3?hdnea=exp=1783417692~acl=/api/1/1/b/6/e/0/b6e5c2055f3cf9907429372b175d0ca4.mp3*~data=user_id=0,application_id=42~hmac=b1302ddf98063c7f653da249f5e7bbc09c6a5a9138444694738b89a29c5fbd31",
+        "deezer_url": "https://www.deezer.com/track/3816454292",
+        "spotify_url": null
+    },
+    "see you again (feat. charlie puth)::wiz khalifa": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/789f12f58063a75411aa391ede444e4a/500x500-000000-80-0-0.jpg",
+        "album": "Gute Nachrichten - Gute Musik",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785e73b6069d7600a02ef6178dc8020b.mp3?hdnea=exp=1783417694~acl=/api/1/1/7/8/5/0/785e73b6069d7600a02ef6178dc8020b.mp3*~data=user_id=0,application_id=42~hmac=7e0389c331cfde81bc7a8045ed2f89c845d2ad27a7e7a5f9fe44426c1c8f8fac",
+        "deezer_url": "https://www.deezer.com/track/4095922621",
+        "spotify_url": null
+    },
+    "don't wake me up::jonas blue": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/eb41941e40c46d45af277e4f88c174bb/500x500-000000-80-0-0.jpg",
+        "album": "Don’t Wake Me Up",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/5/0/3e578acfc168e00d4047bc6ebd3ac8fb.mp3?hdnea=exp=1783417694~acl=/api/1/1/3/e/5/0/3e578acfc168e00d4047bc6ebd3ac8fb.mp3*~data=user_id=0,application_id=42~hmac=91c9b355f0303fa49b36f182a885ac1e2bbcc2d4218e49ced577d566d223335b",
+        "deezer_url": "https://www.deezer.com/track/1814652757",
+        "spotify_url": null
+    },
+    "loop::martin garrix": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/dd544365c4cf143f0c2935683e43efd7/500x500-000000-80-0-0.jpg",
+        "album": "Loop",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/6/0/9e67b4737008cd48e832ca79d4015236.mp3?hdnea=exp=1783417714~acl=/api/1/1/9/e/6/0/9e67b4737008cd48e832ca79d4015236.mp3*~data=user_id=0,application_id=42~hmac=959f5d96f061061fc4c3c575688b48d8f9eba48e17941c0bf4efe75853cfdcc0",
+        "deezer_url": "https://www.deezer.com/track/1817599047",
+        "spotify_url": null
+    },
+    "summer days (feat. macklemore & patrick stump of fall out boy)::martin garrix": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/6c1e1b7c4c1545a2c3e6bd85a070129b/500x500-000000-80-0-0.jpg",
+        "album": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/3/0/f6321deaef0c6bed39216c86c47ef972.mp3?hdnea=exp=1783417715~acl=/api/1/1/f/6/3/0/f6321deaef0c6bed39216c86c47ef972.mp3*~data=user_id=0,application_id=42~hmac=4454da633fc9285ed9366464e721b003863c94899976fbaae813ffdb2974537f",
+        "deezer_url": "https://www.deezer.com/track/669567072",
+        "spotify_url": null
+    },
+    "under the influence::chris brown": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/a5746128ba63fd327eb675b256de6cf6/500x500-000000-80-0-0.jpg",
+        "album": "Summer Smash Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/e/0/b1eb3ce53a1e4d186f890bbc893d71fb.mp3?hdnea=exp=1783417715~acl=/api/1/1/b/1/e/0/b1eb3ce53a1e4d186f890bbc893d71fb.mp3*~data=user_id=0,application_id=42~hmac=9121d09a156132efd46826b26e0ffd6b95415c241578a65f9e318016f35a9c6c",
+        "deezer_url": "https://www.deezer.com/track/2780954641",
+        "spotify_url": null
+    },
+    "moonlight::gaullin": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/06f084f203a44334479f199aa8889f8a/500x500-000000-80-0-0.jpg",
+        "album": "Moonlight",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/9/0/6b95ce15a47d96e518f0c2fc67fc54f7.mp3?hdnea=exp=1783417715~acl=/api/1/1/6/b/9/0/6b95ce15a47d96e518f0c2fc67fc54f7.mp3*~data=user_id=0,application_id=42~hmac=af27aa311115d7bec1137c9be026ae91a79f4910d18912e15ad98501cb305e70",
+        "deezer_url": "https://www.deezer.com/track/547159922",
+        "spotify_url": null
+    },
+    "cruel (feat. zayn)::snakehips": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/a78890648b74b586568a87b34a632e28/500x500-000000-80-0-0.jpg",
+        "album": "Cruel (feat. ZAYN)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/1/0/581a3f43d613a76043d84f988c5cf66e.mp3?hdnea=exp=1783417716~acl=/api/1/1/5/8/1/0/581a3f43d613a76043d84f988c5cf66e.mp3*~data=user_id=0,application_id=42~hmac=2267f63816b5a46040dcf119c41ad459823d256f2812bc764260c350899dcc8c",
+        "deezer_url": "https://www.deezer.com/track/128549709",
+        "spotify_url": null
+    },
+    "close to me::ellie goulding": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/707e7b60c304dc1bab8d36869764e520/500x500-000000-80-0-0.jpg",
+        "album": "Noches en auto",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/3/0/cb3c60b1500d13c1b45c1a8b9939c7e0.mp3?hdnea=exp=1783417716~acl=/api/1/1/c/b/3/0/cb3c60b1500d13c1b45c1a8b9939c7e0.mp3*~data=user_id=0,application_id=42~hmac=680ee44ed76ce2a5d71a38bb7f2c985b296c383f011c3b710ac66bac739d7117",
+        "deezer_url": "https://www.deezer.com/track/3841706951",
+        "spotify_url": null
+    },
+    "new::daya": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/99d7da2248ad1ef750e0c9a7aaa8699c/500x500-000000-80-0-0.jpg",
+        "album": "In Between Dreams",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/f/0/c0ff9fe6fe56075c487b9f1fd96b7257.mp3?hdnea=exp=1783417717~acl=/api/1/1/c/0/f/0/c0ff9fe6fe56075c487b9f1fd96b7257.mp3*~data=user_id=0,application_id=42~hmac=f73ee4f38bed8ba978bd95d426aba4d623f7502d3b2bb9da8ab1c19c47170dd7",
+        "deezer_url": "https://www.deezer.com/track/2024032617",
+        "spotify_url": null
+    },
+    "hallucination::regard": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/c724b14f19460915b945b8ab8a675e65/500x500-000000-80-0-0.jpg",
+        "album": "Hallucination",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/3/0/cf35245f53494c9da5b5eeb720545239.mp3?hdnea=exp=1783417717~acl=/api/1/1/c/f/3/0/cf35245f53494c9da5b5eeb720545239.mp3*~data=user_id=0,application_id=42~hmac=02d2d2ba0ce080c1d9365c15a1ae72a30339af7d2f315946ae5558daa1843a3a",
+        "deezer_url": "https://www.deezer.com/track/1645460502",
+        "spotify_url": null
+    },
+    "who do you love::the chainsmokers": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/838c1725d9559e1e89da8968e0850165/500x500-000000-80-0-0.jpg",
+        "album": "World War Joy...Takeaway",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/4/0/b449cb479c63da0b2d4dde148684f368.mp3?hdnea=exp=1783417718~acl=/api/1/1/b/4/4/0/b449cb479c63da0b2d4dde148684f368.mp3*~data=user_id=0,application_id=42~hmac=98ade9d9b26b6ddb365ac9818f7807412cc8cbad8be34bfb7027eaf6fef2ce89",
+        "deezer_url": "https://www.deezer.com/track/717723382",
+        "spotify_url": null
+    },
+    "fantasy::bazzi": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/950d55c85b1b994c99b8329771d09479/500x500-000000-80-0-0.jpg",
+        "album": "Two Birds - Songs I Heard On TikTok",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/0/0/08083f4762b4dc6c90b8aa19fd4d0116.mp3?hdnea=exp=1783417718~acl=/api/1/1/0/8/0/0/08083f4762b4dc6c90b8aa19fd4d0116.mp3*~data=user_id=0,application_id=42~hmac=d7e43a3268241c9577cd4f28d8ef2edcf33e311b65a643edd09fc3ef29fb245e",
+        "deezer_url": "https://www.deezer.com/track/1581811742",
+        "spotify_url": null
+    },
+    "friends::marshmello": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/65741e02da245f882377c3c688f8cf0c/500x500-000000-80-0-0.jpg",
+        "album": "Kissin My Friends",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/0/0/10000a48092fe145edc1d7c7c48f5275.mp3?hdnea=exp=1783417719~acl=/api/1/1/1/0/0/0/10000a48092fe145edc1d7c7c48f5275.mp3*~data=user_id=0,application_id=42~hmac=5c215ace614acdfc4a1fa565e47653343d4989fe1f8c2557d2b4025105ef7dce",
+        "deezer_url": "https://www.deezer.com/track/3678212212",
+        "spotify_url": null
+    },
+    "junio::maluma": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/95e4951b861f6a0941f51b9f92a1f05e/500x500-000000-80-0-0.jpg",
+        "album": "Junio",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/f/0/57fe0b15a15defb1f9f08968b35992fa.mp3?hdnea=exp=1783417726~acl=/api/1/1/5/7/f/0/57fe0b15a15defb1f9f08968b35992fa.mp3*~data=user_id=0,application_id=42~hmac=5b9e73de2d349894f93703f961e0c72e50a43d3a0b79936668e46e02f1ecb370",
+        "deezer_url": "https://www.deezer.com/track/1915339647",
+        "spotify_url": null
+    },
+    "não vai voltar::onze:20": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/d4ffddfd91f9623d12d5a3dc763602a1/500x500-000000-80-0-0.jpg",
+        "album": "A Nossa Barraca",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/3/0/ed3d863b685cca16f0088de303758eda.mp3?hdnea=exp=1783417726~acl=/api/1/1/e/d/3/0/ed3d863b685cca16f0088de303758eda.mp3*~data=user_id=0,application_id=42~hmac=dae770f5c902c4ed0f3e2fb7f0d3ea6db0c5c997ebeb394bec49b0ae614b153e",
+        "deezer_url": "https://www.deezer.com/track/69920498",
+        "spotify_url": null
+    },
+    "mar chiquita::ozuna": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/cdc3f45d52490922a7077fe6fc96bdb0/500x500-000000-80-0-0.jpg",
+        "album": "OzuTochi",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/1/0/b910c5f8adcbe82aefec6690cf169aec.mp3?hdnea=exp=1783417727~acl=/api/1/1/b/9/1/0/b910c5f8adcbe82aefec6690cf169aec.mp3*~data=user_id=0,application_id=42~hmac=c5f0615fcee86f8ea37a7d5ba501e8db2b1576fedbc71ff2dabad3075a244a41",
+        "deezer_url": "https://www.deezer.com/track/1925210337",
+        "spotify_url": null
+    },
+    "gasolina::daddy yankee": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/17bbe5f60ad9a4c49e1abecbaaad4cb1/500x500-000000-80-0-0.jpg",
+        "album": "The Kings Of The Beat",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/1/0/ec1e5c35a5d33371b908b33c088fe902.mp3?hdnea=exp=1783417727~acl=/api/1/1/e/c/1/0/ec1e5c35a5d33371b908b33c088fe902.mp3*~data=user_id=0,application_id=42~hmac=fba3757054bf71bdc98ad31f3e0fc11108079b2da3631c81d45d58d71e4ff882",
+        "deezer_url": "https://www.deezer.com/track/439288882",
+        "spotify_url": null
+    },
+    "ginza::j balvin": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/1954f5ace5fee7e7d8261548fcec47b6/500x500-000000-80-0-0.jpg",
+        "album": "Ginza (Remix)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/2/0/f32f87dbfe2e482da806c0b8631dbd9f.mp3?hdnea=exp=1783417728~acl=/api/1/1/f/3/2/0/f32f87dbfe2e482da806c0b8631dbd9f.mp3*~data=user_id=0,application_id=42~hmac=d15823d8eaa71646213f7ec6f6572c8ef8603dcce56a28a7f5f51e1dd6909a93",
+        "deezer_url": "https://www.deezer.com/track/115709094",
+        "spotify_url": null
+    },
+    "con calma::daddy yankee": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/ea41aa79f241ce6b68cceafbdf317c10/500x500-000000-80-0-0.jpg",
+        "album": "2K20, Pt. 3 (Live)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/e/0/a6e6cf366575d34c50e4aaa91d14acaf.mp3?hdnea=exp=1783417728~acl=/api/1/1/a/6/e/0/a6e6cf366575d34c50e4aaa91d14acaf.mp3*~data=user_id=0,application_id=42~hmac=c9ab4647b06f1cfe856b68a62607ee9f2a240a4dcbe4b631e9c066b69f6422b1",
+        "deezer_url": "https://www.deezer.com/track/1183706182",
+        "spotify_url": null
+    },
+    "jarabe   remastered::kevin martes 13": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/8cb51278393bb1d7fc3723fe8ad62bd4/500x500-000000-80-0-0.jpg",
+        "album": "Inmortal",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/7/0/f97ce10e5dcf42fbb0f1defdaa14f8cb.mp3?hdnea=exp=1783417729~acl=/api/1/1/f/9/7/0/f97ce10e5dcf42fbb0f1defdaa14f8cb.mp3*~data=user_id=0,application_id=42~hmac=6a76d165aba8f4a2c00eaecd89718689734a937456303b26312cc9578a553436",
+        "deezer_url": "https://www.deezer.com/track/3021928661",
+        "spotify_url": null
+    },
+    "4:22::ozuna": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/cdc3f45d52490922a7077fe6fc96bdb0/500x500-000000-80-0-0.jpg",
+        "album": "OzuTochi",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/0/0/0b0de49bf95ea53e816c8a7ead8ad9ab.mp3?hdnea=exp=1783417729~acl=/api/1/1/0/b/0/0/0b0de49bf95ea53e816c8a7ead8ad9ab.mp3*~data=user_id=0,application_id=42~hmac=f4a4ea6c99d8098f45e29115354c108e3ecda47190663edc3ac2bac1d904417f",
+        "deezer_url": "https://www.deezer.com/track/1925210407",
+        "spotify_url": null
+    },
+    "te marchaste::ozuna": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/cdc3f45d52490922a7077fe6fc96bdb0/500x500-000000-80-0-0.jpg",
+        "album": "OzuTochi",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/1/0/831252a5616664dd28209f97af3076ea.mp3?hdnea=exp=1783417729~acl=/api/1/1/8/3/1/0/831252a5616664dd28209f97af3076ea.mp3*~data=user_id=0,application_id=42~hmac=76e3bf93069e3b4dca75fd0c3b190f8589893ac09012d7507d20198dbe6da534",
+        "deezer_url": "https://www.deezer.com/track/1925210417",
+        "spotify_url": null
+    },
+    "mimar você::timbalada": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/8e23062b297efc9b7c3a7c83274a5489/500x500-000000-80-0-0.jpg",
+        "album": "Timbalada Ao Vivo no Guetho Vol. 1",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/b/0/d2b1e234c7420a6bd15640b27b9bdbc7.mp3?hdnea=exp=1783417730~acl=/api/1/1/d/2/b/0/d2b1e234c7420a6bd15640b27b9bdbc7.mp3*~data=user_id=0,application_id=42~hmac=24ffbc68033bbcd9a653fabf149cb1d53a1b164e12491ac5fb757eb8e7cf71b8",
+        "deezer_url": "https://www.deezer.com/track/3038395411",
+        "spotify_url": null
+    },
+    "cores do universo::maneva": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/bb9cfea580ded822c04cc0c18f1aa006/500x500-000000-80-0-0.jpg",
+        "album": "Mundo Novo",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/f/0/78f1895e0f9bab238e124996c9c5422a.mp3?hdnea=exp=1783417730~acl=/api/1/1/7/8/f/0/78f1895e0f9bab238e124996c9c5422a.mp3*~data=user_id=0,application_id=42~hmac=b269403686600f527eeac292675d801adf76ba63d50f01e21e56b458bf0156fa",
+        "deezer_url": "https://www.deezer.com/track/1759167987",
+        "spotify_url": null
+    },
+    "la copa::ozuna": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/9acf0473e4957c13da516a3a4ef5bd97/500x500-000000-80-0-0.jpg",
+        "album": "La Copa",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/f/0/42f5bda6e3faf9848a8fa42409192c60.mp3?hdnea=exp=1783417731~acl=/api/1/1/4/2/f/0/42f5bda6e3faf9848a8fa42409192c60.mp3*~data=user_id=0,application_id=42~hmac=a08f9f9955e45f5a9411f7beb22264c48b295bdc782eef633bccac498d2091f1",
+        "deezer_url": "https://www.deezer.com/track/1906731917",
+        "spotify_url": null
+    },
+    "aguacero::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+        "album": "Un Verano Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/2/0/a821b7bb110d7d11095a12421d422eb9.mp3?hdnea=exp=1783417731~acl=/api/1/1/a/8/2/0/a821b7bb110d7d11095a12421d422eb9.mp3*~data=user_id=0,application_id=42~hmac=59d2b11bf229cb64653bd03de39e9bb4b1e8f28c7f49288f18e02381e1958ce4",
+        "deezer_url": "https://www.deezer.com/track/1741494397",
+        "spotify_url": null
+    },
+    "añejo w::los caligaris": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/362c7334bd0eb3a84b14ea02a814befd/500x500-000000-80-0-0.jpg",
+        "album": "No Es Lo Que Parece",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/e/0/e0e1c6985aa7d5acda980391d51597f7.mp3?hdnea=exp=1783417731~acl=/api/1/1/e/0/e/0/e0e1c6985aa7d5acda980391d51597f7.mp3*~data=user_id=0,application_id=42~hmac=834dbff01b94aa9dd3712b4d327f743adeddf4d7c117084e457f0d4c470cac07",
+        "deezer_url": "https://www.deezer.com/track/88997317",
+        "spotify_url": null
+    },
+    "my way::limp bizkit": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f17a6d764d4eea95dab085c917e1ce7f/500x500-000000-80-0-0.jpg",
+        "album": "Greatest Hitz",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/6/0/96681d0c7d467a2537f8a2a77445b632.mp3?hdnea=exp=1783419066~acl=/api/1/1/9/6/6/0/96681d0c7d467a2537f8a2a77445b632.mp3*~data=user_id=0,application_id=42~hmac=813b7d7031d0e7634fc15de959a42e70c651a9c6747c853085516f9f84ae79b9",
+        "deezer_url": "https://www.deezer.com/track/1143496",
+        "spotify_url": null
+    },
+    "give it away::red hot chili peppers": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/1009e54af0c5c36fb6513f06872ed4ba/500x500-000000-80-0-0.jpg",
+        "album": "Bled Dry",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/6/0/6364dbf0f76697fdc1fa397fa935886e.mp3?hdnea=exp=1783419067~acl=/api/1/1/6/3/6/0/6364dbf0f76697fdc1fa397fa935886e.mp3*~data=user_id=0,application_id=42~hmac=158cbe70dadfcaa209003b62b0c8271474070158b23aced3caebf5c93c2918de",
+        "deezer_url": "https://www.deezer.com/track/1230206252",
+        "spotify_url": null
+    },
+    "falling away from me::korn": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/992a446536cc990c5e026ba024473fac/500x500-000000-80-0-0.jpg",
+        "album": "Best of Y2K Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/c/0/4ac6d136532f6e6997bb8525f445c8b1.mp3?hdnea=exp=1783419068~acl=/api/1/1/4/a/c/0/4ac6d136532f6e6997bb8525f445c8b1.mp3*~data=user_id=0,application_id=42~hmac=b6673e8aef49236fbfb95152ff9ec3fa5364a2ba3c5fb3a1a6130915cbd9c1bc",
+        "deezer_url": "https://www.deezer.com/track/3147524351",
+        "spotify_url": null
+    },
+    "guerrilla radio::rage against the machine": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/ed9a7c8246b55d8929b7b01cc5fa6b03/500x500-000000-80-0-0.jpg",
+        "album": "Y2K Alt Rock Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/a/0/3daeb1f48db1c1768a55e6d46cdd8e4e.mp3?hdnea=exp=1783419069~acl=/api/1/1/3/d/a/0/3daeb1f48db1c1768a55e6d46cdd8e4e.mp3*~data=user_id=0,application_id=42~hmac=f7a21a5b429add1230767bd3bb57051c80e61b14f671112b2c01f2ff3b7a9ef9",
+        "deezer_url": "https://www.deezer.com/track/3172621441",
+        "spotify_url": null
+    },
+    "glimpse of us::joji": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/339bb32d6a9e3de3daeee23819cf0f2c/500x500-000000-80-0-0.jpg",
+        "album": "Glimpse of Us",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/9/0/5f9d192fb1eb17a5f214f34b0856471e.mp3?hdnea=exp=1783419122~acl=/api/1/1/5/f/9/0/5f9d192fb1eb17a5f214f34b0856471e.mp3*~data=user_id=0,application_id=42~hmac=a0b3e9662ff6267150b5a1db2280747e7e9391915f8801db7a16cd67b7bf6e3c",
+        "deezer_url": "https://www.deezer.com/track/3065103151",
+        "spotify_url": null
+    },
+    "highway to hell::ac/dc": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/de48d988a82fc401f4b9bafc2639f7d0/500x500-000000-80-0-0.jpg",
+        "album": "Highway to Hell",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/1/0/d7183d3dd28d85289690100ef5d7c78e.mp3?hdnea=exp=1783419122~acl=/api/1/1/d/7/1/0/d7183d3dd28d85289690100ef5d7c78e.mp3*~data=user_id=0,application_id=42~hmac=6bea51065069b28c594dee257d262169b720abcef6a84ab150881904caa14a6b",
+        "deezer_url": "https://www.deezer.com/track/92719900",
+        "spotify_url": null
+    },
+    "neverita::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+        "album": "Un Verano Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/b/0/0db9b39a81cba738fb10a48fec65dee0.mp3?hdnea=exp=1783419122~acl=/api/1/1/0/d/b/0/0db9b39a81cba738fb10a48fec65dee0.mp3*~data=user_id=0,application_id=42~hmac=d2b7056feb5f7b8ccb71fd818b396754cc3dc11d0bc37b31bebeacca3efd54e6",
+        "deezer_url": "https://www.deezer.com/track/1741494357",
+        "spotify_url": null
+    },
+    "i wanna be yours::arctic monkeys": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/500x500-000000-80-0-0.jpg",
+        "album": "AM",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/c/0/80cf1e6bec0b3caded54ddb231041db7.mp3?hdnea=exp=1783419123~acl=/api/1/1/8/0/c/0/80cf1e6bec0b3caded54ddb231041db7.mp3*~data=user_id=0,application_id=42~hmac=b68775eddd35b08b58293305cbfa2a1e5eef880cae304f0180809f18ea6f76e9",
+        "deezer_url": "https://www.deezer.com/track/70322142",
+        "spotify_url": null
+    },
+    "thunderstruck::ac/dc": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/e715766b21a8db6076f6a9a89e25cf82/500x500-000000-80-0-0.jpg",
+        "album": "The Razors Edge",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/1/0/1117489d36f3a1a80c8815c1137747a9.mp3?hdnea=exp=1783419123~acl=/api/1/1/1/1/1/0/1117489d36f3a1a80c8815c1137747a9.mp3*~data=user_id=0,application_id=42~hmac=4df9e4a15119e4c171f9c9b50d7a4746de51de98c5647e398bd52099ce5d3ad3",
+        "deezer_url": "https://www.deezer.com/track/92720102",
+        "spotify_url": null
+    },
+    "atlantis::seafret": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/0052aab223c4ae84d0b9dfea9a9fc7b5/500x500-000000-80-0-0.jpg",
+        "album": "Atlantis",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/9/0/e39ce851e310c8c6ea482832bb620dbb.mp3?hdnea=exp=1783419123~acl=/api/1/1/e/3/9/0/e39ce851e310c8c6ea482832bb620dbb.mp3*~data=user_id=0,application_id=42~hmac=41541b4aff4e7d60eecc53efff7d0c334276334b0e4efed17e41a13d1c9001d6",
+        "deezer_url": "https://www.deezer.com/track/1964659877",
+        "spotify_url": null
+    },
+    "back in black::ac/dc": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/41041b14873956eff0459c8ea2c296a8/500x500-000000-80-0-0.jpg",
+        "album": "Back In Black",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/b/0/82be918b42c3d26093b20d01e97e4a03.mp3?hdnea=exp=1783419123~acl=/api/1/1/8/2/b/0/82be918b42c3d26093b20d01e97e4a03.mp3*~data=user_id=0,application_id=42~hmac=93848dbbb3751a8ce58f7772016610991b92aac9bebca767dbe7f38f4fca7948",
+        "deezer_url": "https://www.deezer.com/track/92720046",
+        "spotify_url": null
+    },
+    "don't stop believin'::journey": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/e13fc61817102a94c15ee0b4733df534/500x500-000000-80-0-0.jpg",
+        "album": "Revelation",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/5/0/e55b29f6ca718d2c2c199f80e4ffe907.mp3?hdnea=exp=1783419123~acl=/api/1/1/e/5/5/0/e55b29f6ca718d2c2c199f80e4ffe907.mp3*~data=user_id=0,application_id=42~hmac=08bf79a81a85aad2b1642898e03e84913a956d20caefd2372af7a118e59714d3",
+        "deezer_url": "https://www.deezer.com/track/1720278",
+        "spotify_url": null
+    },
+    "comfortably numb::pink floyd": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/2bea643b92a8fc6b19a23756f718cbd4/500x500-000000-80-0-0.jpg",
+        "album": "The Wall",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/6/0/436032ec967e0282f468e9aaf8f1062b.mp3?hdnea=exp=1783419124~acl=/api/1/1/4/3/6/0/436032ec967e0282f468e9aaf8f1062b.mp3*~data=user_id=0,application_id=42~hmac=8188072d5320216b0cd3a6d6ce1ecfa9f1196a4c3829389825db2ac0d4d4c35d",
+        "deezer_url": "https://www.deezer.com/track/116914122",
+        "spotify_url": null
+    },
+    "i'm not the only one::sam smith": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/34b36dc4bd6a5da8d3a5b32f8c74bef4/500x500-000000-80-0-0.jpg",
+        "album": "Black Music Classics",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/7/0/077ec9535ed6ed755eb5d2f61d421286.mp3?hdnea=exp=1783419124~acl=/api/1/1/0/7/7/0/077ec9535ed6ed755eb5d2f61d421286.mp3*~data=user_id=0,application_id=42~hmac=fe7cb00ac93b7a61fcf8e13179516a59e86f2aff887bb1fdc9a4a8fec30f4f20",
+        "deezer_url": "https://www.deezer.com/track/3921354801",
+        "spotify_url": null
+    },
+    "separate ways (worlds apart)   bryce miller/alloy tracks remix::journey": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/dc5688a7cf61b8aa35db99e135637128/500x500-000000-80-0-0.jpg",
+        "album": "Separate Ways (Worlds Apart) (Bryce Miller/Alloy Tracks Remix)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/3/0/9a313669c5b333eee4d01abf5c576dbc.mp3?hdnea=exp=1783419124~acl=/api/1/1/9/a/3/0/9a313669c5b333eee4d01abf5c576dbc.mp3*~data=user_id=0,application_id=42~hmac=8ebf3b998b1f3cef30798d53bcfe115da9711d594e91b00f01961f459f8e5962",
+        "deezer_url": "https://www.deezer.com/track/1712756577",
+        "spotify_url": null
+    },
+    "drivers license::olivia rodrigo": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/14d7004139105f6aae8693e338d6f0d7/500x500-000000-80-0-0.jpg",
+        "album": "Drivers License",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/8/0/5386bd58ad4c206e9712a34e14185725.mp3?hdnea=exp=1783419124~acl=/api/1/1/5/3/8/0/5386bd58ad4c206e9712a34e14185725.mp3*~data=user_id=0,application_id=42~hmac=103876712cd5fbf50ccd4fd76027608b994dbd7ed6f865f9fefad61d348508dd",
+        "deezer_url": "https://www.deezer.com/track/1623241942",
+        "spotify_url": null
+    },
+    "the man who can't be moved::the script": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/5931e38ae424f2fbdc716cd9f29f0024/500x500-000000-80-0-0.jpg",
+        "album": "2000s Pop Essentials",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/0/0/8e0f576b614f8ddcbce4a6d1e6694a38.mp3?hdnea=exp=1783419125~acl=/api/1/1/8/e/0/0/8e0f576b614f8ddcbce4a6d1e6694a38.mp3*~data=user_id=0,application_id=42~hmac=98053a7b530aaf42e29fefcb6f14d43453108c1fff68f71e28f2ccfab9f64abf",
+        "deezer_url": "https://www.deezer.com/track/3173778641",
+        "spotify_url": null
+    },
+    "everything black::unlike pluto": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/fa207afb0023f624f93fa9a7803a9bcc/500x500-000000-80-0-0.jpg",
+        "album": "Everything Black (feat. Mike Taylor)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/5/0/b4592a1d140f40f333558626d38592f6.mp3?hdnea=exp=1783419125~acl=/api/1/1/b/4/5/0/b4592a1d140f40f333558626d38592f6.mp3*~data=user_id=0,application_id=42~hmac=e4ea74b85eaf703c745835965c31578762a67c3c019e01a3698594bbd4366a9c",
+        "deezer_url": "https://www.deezer.com/track/143764102",
+        "spotify_url": null
+    },
+    "dákiti::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/aa6aa7ac356ad9d6c578cccd1a62c394/500x500-000000-80-0-0.jpg",
+        "album": "DÁKITI",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/5/0/ca53d105c0f8963a28ce1f04879e86be.mp3?hdnea=exp=1783419258~acl=/api/1/1/c/a/5/0/ca53d105c0f8963a28ce1f04879e86be.mp3*~data=user_id=0,application_id=42~hmac=b22551d387de91a792b1fd4bc223b4976c24bb7ca85adb36b68d4347cec2afdc",
+        "deezer_url": "https://www.deezer.com/track/1122450992",
+        "spotify_url": null
+    },
+    "x última vez::daddy yankee": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/2dba64a47133068509828d573224cc3b/500x500-000000-80-0-0.jpg",
+        "album": "Previa Mundial 2026",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/4/0/b34131e46197c1a86673b84d6af6a100.mp3?hdnea=exp=1783419258~acl=/api/1/1/b/3/4/0/b34131e46197c1a86673b84d6af6a100.mp3*~data=user_id=0,application_id=42~hmac=c77f645a32da2e1c52a7e66ab4aebdbed854a72b994d8a9cb8c9874c487ef31a",
+        "deezer_url": "https://www.deezer.com/track/4117750501",
+        "spotify_url": null
+    },
+    "tarot::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+        "album": "Un Verano Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/8/0/9c8de5eaaaa8f178f80769849fc8f850.mp3?hdnea=exp=1783419258~acl=/api/1/1/9/c/8/0/9c8de5eaaaa8f178f80769849fc8f850.mp3*~data=user_id=0,application_id=42~hmac=34ba5bbe156654c59d79328e3cca2fa86ab76acfb37258dc28d0a84ff1f81599",
+        "deezer_url": "https://www.deezer.com/track/1741494347",
+        "spotify_url": null
+    },
+    "pepas::farruko": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/1b88acc901e3beff139b5b4eea025802/500x500-000000-80-0-0.jpg",
+        "album": "Pepas",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/a/0/2dae9a42ff4cf95f5fe860e3cc3d319e.mp3?hdnea=exp=1783419259~acl=/api/1/1/2/d/a/0/2dae9a42ff4cf95f5fe860e3cc3d319e.mp3*~data=user_id=0,application_id=42~hmac=c1fe74cc0cc2cc41f24a3864ce47c10ec729796a09a7fead99594eb71ea0f7b8",
+        "deezer_url": "https://www.deezer.com/track/1411181832",
+        "spotify_url": null
+    },
+    "loco por perrearte   remix::de la ghetto": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/ea6306b64aae6b4117bcd28be633c3fd/500x500-000000-80-0-0.jpg",
+        "album": "Loco Por Perrearte (Remix)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/0/0/d409cadc2d3e264591fe8341c2e0e2e4.mp3?hdnea=exp=1783419259~acl=/api/1/1/d/4/0/0/d409cadc2d3e264591fe8341c2e0e2e4.mp3*~data=user_id=0,application_id=42~hmac=758ed19f77507814cf6a47765e0f8527cb0c0a72de98f305a9ae5369a13832f8",
+        "deezer_url": "https://www.deezer.com/track/1767802427",
+        "spotify_url": null
+    },
+    "la santa::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/0a6f32569d4785c5ef82f581086f4302/500x500-000000-80-0-0.jpg",
+        "album": "YHLQMDLG",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/3/0/7e3c6ab4e2ce7967e8773de35a854360.mp3?hdnea=exp=1783419260~acl=/api/1/1/7/e/3/0/7e3c6ab4e2ce7967e8773de35a854360.mp3*~data=user_id=0,application_id=42~hmac=523cebaa3b833e227b4da66965bb8186ed5de0adc722dfe1bad251b1befaa5a9",
+        "deezer_url": "https://www.deezer.com/track/889550882",
+        "spotify_url": null
+    },
+    "hey mor::ozuna": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/cdc3f45d52490922a7077fe6fc96bdb0/500x500-000000-80-0-0.jpg",
+        "album": "OzuTochi",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/1/0/39115717d918ffc5c92e6b70ec43a423.mp3?hdnea=exp=1783419260~acl=/api/1/1/3/9/1/0/39115717d918ffc5c92e6b70ec43a423.mp3*~data=user_id=0,application_id=42~hmac=50d9ca6adcbad42c7de16753b88e05ee44d888094f32f1cb755a2c3623aa4816",
+        "deezer_url": "https://www.deezer.com/track/1925210387",
+        "spotify_url": null
+    },
+    "ram pam pam::natti natasha": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/9b5faf480ed208c9f94628794b1f4f17/500x500-000000-80-0-0.jpg",
+        "album": "Ram Pam Pam",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/4/0/93405ca12324caabd64313d2dc9dff01.mp3?hdnea=exp=1783419260~acl=/api/1/1/9/3/4/0/93405ca12324caabd64313d2dc9dff01.mp3*~data=user_id=0,application_id=42~hmac=2756872f97caafa227b4739299bf919bf54be80c2de3a5400d60e7f9aed31f76",
+        "deezer_url": "https://www.deezer.com/track/1345231832",
+        "spotify_url": null
+    },
+    "mia (feat. drake)::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/c027688acfd9cdf155684983b126c246/500x500-000000-80-0-0.jpg",
+        "album": "MIA (feat. Drake)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/1/0/5b1f33e04a410ebbaeb5ea7c0c87028c.mp3?hdnea=exp=1783419260~acl=/api/1/1/5/b/1/0/5b1f33e04a410ebbaeb5ea7c0c87028c.mp3*~data=user_id=0,application_id=42~hmac=b273efaf43475e9ff29513f774281c27ac964ee4f7be44b6414eadec15a9fc71",
+        "deezer_url": "https://www.deezer.com/track/2349151045",
+        "spotify_url": null
+    },
+    "mi gente::j balvin": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/235e6dc887463bdd0657fe8e6ce1265a/500x500-000000-80-0-0.jpg",
+        "album": "KPOPPED (Apple TV+ Original Series Soundtrack)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/1/0/821cd59abdfffb4e2f05257003755b3a.mp3?hdnea=exp=1783419261~acl=/api/1/1/8/2/1/0/821cd59abdfffb4e2f05257003755b3a.mp3*~data=user_id=0,application_id=42~hmac=e0c4b0621abc55aaca66388e592c081b70c710bc1fa1546244fc24908b1bbdb3",
+        "deezer_url": "https://www.deezer.com/track/3558994391",
+        "spotify_url": null
+    },
+    "del mar::ozuna": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/815c3d27a09949d79ad5e92b675aea60/500x500-000000-80-0-0.jpg",
+        "album": "ENOC",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/a/0/75a62b750a093b3a88030f74c2790793.mp3?hdnea=exp=1783419260~acl=/api/1/1/7/5/a/0/75a62b750a093b3a88030f74c2790793.mp3*~data=user_id=0,application_id=42~hmac=bbcaad87a1a8ff2c5867d373cf7dccc6363b8874a20d05c348b5c16da8b8e85f",
+        "deezer_url": "https://www.deezer.com/track/1065099142",
+        "spotify_url": null
+    },
+    "hot::daddy yankee": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/8adaf7c5ebd0c2feb49c04dbe114c58c/500x500-000000-80-0-0.jpg",
+        "album": "LEGENDADDY",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/4/0/73448411187a73bf6371903fee4fb93c.mp3?hdnea=exp=1783419261~acl=/api/1/1/7/3/4/0/73448411187a73bf6371903fee4fb93c.mp3*~data=user_id=0,application_id=42~hmac=9bf32120263e6f23260a6b5e3f07da53071e7dce82356d9c0151243010a968ce",
+        "deezer_url": "https://www.deezer.com/track/1690137197",
+        "spotify_url": null
+    },
+    "te mudaste::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/6ea80078f0df08737a7471f3c4cf2afa/500x500-000000-80-0-0.jpg",
+        "album": "EL ÚLTIMO TOUR DEL MUNDO",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/f/0/38f7aa9d81d5f0ca8211b73bc6ae848b.mp3?hdnea=exp=1783419261~acl=/api/1/1/3/8/f/0/38f7aa9d81d5f0ca8211b73bc6ae848b.mp3*~data=user_id=0,application_id=42~hmac=f3904566a4d583f39471dbddc05ef42dae4244c46a6336cb3a5295400adf8d6a",
+        "deezer_url": "https://www.deezer.com/track/1155477772",
+        "spotify_url": null
+    },
+    "un ratito::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+        "album": "Un Verano Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/7/0/5f7ba84f559707a314f264e72565676a.mp3?hdnea=exp=1783419261~acl=/api/1/1/5/f/7/0/5f7ba84f559707a314f264e72565676a.mp3*~data=user_id=0,application_id=42~hmac=468915e9cdf6922f857ae81b5ee0034100ebd24fbe1393c285b29836bb7a6945",
+        "deezer_url": "https://www.deezer.com/track/1741494327",
+        "spotify_url": null
+    },
+    "la suzi::ozuna": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/cdc3f45d52490922a7077fe6fc96bdb0/500x500-000000-80-0-0.jpg",
+        "album": "OzuTochi",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/1/0/00141d35fe7a5a17547cf7f496649a84.mp3?hdnea=exp=1783419262~acl=/api/1/1/0/0/1/0/00141d35fe7a5a17547cf7f496649a84.mp3*~data=user_id=0,application_id=42~hmac=9bfc47a711fe221692406672657d5510b8c8f520c7eb2e5a0acb75887c3cddf7",
+        "deezer_url": "https://www.deezer.com/track/1925210437",
+        "spotify_url": null
+    },
+    "cielos rosado::ozuna": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/cdc3f45d52490922a7077fe6fc96bdb0/500x500-000000-80-0-0.jpg",
+        "album": "OzuTochi",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d34ab82afcdd2d2c651cd54594299c30.mp3?hdnea=exp=1783419263~acl=/api/1/1/d/3/4/0/d34ab82afcdd2d2c651cd54594299c30.mp3*~data=user_id=0,application_id=42~hmac=1739983af6d4e13d98a00b864f744d66433649d267d6f510dce4f33ca7e5d179",
+        "deezer_url": "https://www.deezer.com/track/1925210477",
+        "spotify_url": null
+    },
+    "otra noche sin ti::j balvin": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/27cbb0ccda458676f3877415074a72c4/500x500-000000-80-0-0.jpg",
+        "album": "Otra Noche Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/4/0/894da30f3b23c19f4d6d11d4e48a6630.mp3?hdnea=exp=1783419263~acl=/api/1/1/8/9/4/0/894da30f3b23c19f4d6d11d4e48a6630.mp3*~data=user_id=0,application_id=42~hmac=325157872167a3b256a5aa81785bffba4a7aa056b6c40354c9dfbf8c0a42a353",
+        "deezer_url": "https://www.deezer.com/track/1303233332",
+        "spotify_url": null
+    },
+    "dos mil 16::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+        "album": "Un Verano Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/e/0/54e30c2d3e3c84b0dbf338e6439322b9.mp3?hdnea=exp=1783419264~acl=/api/1/1/5/4/e/0/54e30c2d3e3c84b0dbf338e6439322b9.mp3*~data=user_id=0,application_id=42~hmac=d49687497b2b00a9313f20dba54c8b70f9443414bfe1a262018ae5f206c4f2ad",
+        "deezer_url": "https://www.deezer.com/track/1741494427",
+        "spotify_url": null
+    },
+    "here comes the hotstepper::ini kamoze": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/465207081657ac6d194b64f96e0919bf/500x500-000000-80-0-0.jpg",
+        "album": "Mo'Applause Riddim (Riddims Galore Vol. 2)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/9/0/8e982403c1c4a2aacf1ff24b47607f1d.mp3?hdnea=exp=1783419265~acl=/api/1/1/8/e/9/0/8e982403c1c4a2aacf1ff24b47607f1d.mp3*~data=user_id=0,application_id=42~hmac=2960da5cbc33592a8e97ed42eb7fa574f38f51183e78ff02ef2fc75cbef32434",
+        "deezer_url": "https://www.deezer.com/track/564869292",
+        "spotify_url": null
+    },
+    "party::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+        "album": "Un Verano Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/6/0/d269c532ca354df7f96701370fbd0c90.mp3?hdnea=exp=1783419265~acl=/api/1/1/d/2/6/0/d269c532ca354df7f96701370fbd0c90.mp3*~data=user_id=0,application_id=42~hmac=10312681f6bf9bbb556366ee4008062238e8e98ccc911b609f7e78b07c299b66",
+        "deezer_url": "https://www.deezer.com/track/1741494387",
+        "spotify_url": null
+    },
+    "me rehúso::danny ocean": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/80fb51004b98d7e6deb2d0e3b6c641a5/500x500-000000-80-0-0.jpg",
+        "album": "Hincha del Mundo",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/a/0/3daf97e2924922289456506127fc2417.mp3?hdnea=exp=1783419266~acl=/api/1/1/3/d/a/0/3daf97e2924922289456506127fc2417.mp3*~data=user_id=0,application_id=42~hmac=5e78f1ee4f294d2cda85403b0180fb4fc81da4d64216a2d899c777369a0ddd55",
+        "deezer_url": "https://www.deezer.com/track/4096111051",
+        "spotify_url": null
+    },
+    "xq te pones así::feid": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/e1e452f18ae4393e1b59c6eb939b0ded/500x500-000000-80-0-0.jpg",
+        "album": "FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/8/0/c38b85e8e3abad040897621cfc2a11f3.mp3?hdnea=exp=1783419266~acl=/api/1/1/c/3/8/0/c38b85e8e3abad040897621cfc2a11f3.mp3*~data=user_id=0,application_id=42~hmac=260025ef09060329d8ef1fef2ab4de7675e5d9b944c93827b6b9ca60340e6fbd",
+        "deezer_url": "https://www.deezer.com/track/1912492037",
+        "spotify_url": null
+    },
+    "yo perreo sola::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/0a6f32569d4785c5ef82f581086f4302/500x500-000000-80-0-0.jpg",
+        "album": "YHLQMDLG",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/3/0/833050d88f3aa1aedf4d32bfa154a846.mp3?hdnea=exp=1783419266~acl=/api/1/1/8/3/3/0/833050d88f3aa1aedf4d32bfa154a846.mp3*~data=user_id=0,application_id=42~hmac=4076a5acbb40b00acecadb7362ab70b3222331a858ec551f41e8811e77ea02fd",
+        "deezer_url": "https://www.deezer.com/track/889550892",
+        "spotify_url": null
+    },
+    "oceans::seafret": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b27893ee68a44a7fb2325ba470d6edf2/500x500-000000-80-0-0.jpg",
+        "album": "Oceans - EP",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/4/0/2d4b4c44244503e87c0d55f8eefe768d.mp3?hdnea=exp=1783419272~acl=/api/1/1/2/d/4/0/2d4b4c44244503e87c0d55f8eefe768d.mp3*~data=user_id=0,application_id=42~hmac=3534da48ca0780bc8dff327117381cc24b78de4b5dcbb5b0c787e7c6d601cff9",
+        "deezer_url": "https://www.deezer.com/track/92601004",
+        "spotify_url": null
+    },
+    "sleep on the floor::the lumineers": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/829f6ef67bf2d3addc74c853d9bad071/500x500-000000-80-0-0.jpg",
+        "album": "Cleopatra",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/7/0/c27cb350513e2410a8dea1f6ddd03795.mp3?hdnea=exp=1783419272~acl=/api/1/1/c/2/7/0/c27cb350513e2410a8dea1f6ddd03795.mp3*~data=user_id=0,application_id=42~hmac=1415deaa02974262d1600c568a84cec067d10ccf684469eba96f1bb194d151f6",
+        "deezer_url": "https://www.deezer.com/track/2863939422",
+        "spotify_url": null
+    },
+    "sky's still blue::andrew belle": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/3e7718e20b000c157c0050c1b6429edb/500x500-000000-80-0-0.jpg",
+        "album": "The Daylight EP",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/7/0/6b7d60b3e31997d40b6dac3d8767d7c1.mp3?hdnea=exp=1783419272~acl=/api/1/1/6/b/7/0/6b7d60b3e31997d40b6dac3d8767d7c1.mp3*~data=user_id=0,application_id=42~hmac=916c2a5ae6ec01da64abeed93311eb3da2ab54e0f3b58dbdd248c87efe17150d",
+        "deezer_url": "https://www.deezer.com/track/63496324",
+        "spotify_url": null
+    },
+    "the cave::mumford & sons": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/7feef753766afeb8289fed8b9e5e0c60/500x500-000000-80-0-0.jpg",
+        "album": "Worldwide now hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/c/0/92cf5549086fee65459df9f11bcb0eef.mp3?hdnea=exp=1783419273~acl=/api/1/1/9/2/c/0/92cf5549086fee65459df9f11bcb0eef.mp3*~data=user_id=0,application_id=42~hmac=138d7ff23831a238712f1da783a52736606ed94c1c97e79f9c2a2dfde57fe039",
+        "deezer_url": "https://www.deezer.com/track/11975719",
+        "spotify_url": null
+    },
+    "cinnamon::jome": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b954873ae26f51b9569e354297bb7532/500x500-000000-80-0-0.jpg",
+        "album": "Tunnels",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/f/0/50f062b1cd7619f7db1cc59e041e94b3.mp3?hdnea=exp=1783419273~acl=/api/1/1/5/0/f/0/50f062b1cd7619f7db1cc59e041e94b3.mp3*~data=user_id=0,application_id=42~hmac=b199c16eac4d21479f9d096cdb956be3f2e0d2f5707f133c53eb2a38600de092",
+        "deezer_url": "https://www.deezer.com/track/2248500147",
+        "spotify_url": null
+    },
+    "atlantis   extra sped up version::seafret": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/804616497a6e2908b528698dc85358b7/500x500-000000-80-0-0.jpg",
+        "album": "Throwback TikTok Songs",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/1/0/e61c3de9c408a1d963e1355c5eee1b93.mp3?hdnea=exp=1783419274~acl=/api/1/1/e/6/1/0/e61c3de9c408a1d963e1355c5eee1b93.mp3*~data=user_id=0,application_id=42~hmac=8ab6a9128bca31d8cc0d0b9989934b0f6f880c699b7840d6bc6e20136e2dab95",
+        "deezer_url": "https://www.deezer.com/track/2040505287",
+        "spotify_url": null
+    },
+    "i found::amber run": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/2ae9784744ba756c47e8b1e5149e6cd0/500x500-000000-80-0-0.jpg",
+        "album": "TikTok Throwbacks",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/0/0/a8099a4c3d9c0deb13d291752f6a76af.mp3?hdnea=exp=1783419274~acl=/api/1/1/a/8/0/0/a8099a4c3d9c0deb13d291752f6a76af.mp3*~data=user_id=0,application_id=42~hmac=844c0b53f6144c563ad079adcd55b62f577dfcfc7bfd167f855119d09e888173",
+        "deezer_url": "https://www.deezer.com/track/2040486567",
+        "spotify_url": null
+    },
+    "pieces::andrew belle": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/73573b4dabd213bbf7d96df3ba573c3d/500x500-000000-80-0-0.jpg",
+        "album": "Black Bear",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/3/0/a434ccead1e3c119ccb61a1150875c6c.mp3?hdnea=exp=1783419274~acl=/api/1/1/a/4/3/0/a434ccead1e3c119ccb61a1150875c6c.mp3*~data=user_id=0,application_id=42~hmac=6e7dc4c502b39e0274d5ade1402e4bb3b62a289cbd6bcc88b0d961fdb28a1edb",
+        "deezer_url": "https://www.deezer.com/track/131046200",
+        "spotify_url": null
+    },
+    "let your heart hold fast::fort atlantic": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/ce2b7a6b4e0ae65f1220b5ef107371fe/500x500-000000-80-0-0.jpg",
+        "album": "Fort Atlantic",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/6/0/026cf99299e128d6c2c88ef717ab4205.mp3?hdnea=exp=1783419275~acl=/api/1/1/0/2/6/0/026cf99299e128d6c2c88ef717ab4205.mp3*~data=user_id=0,application_id=42~hmac=2ef899a2924f76c092dca9232c8282abcf00ebd2b208c18e3b7dabe994d504fb",
+        "deezer_url": "https://www.deezer.com/track/1543340682",
+        "spotify_url": null
+    },
+    "titli (dubstep version)::phoenyx": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/52cd803d83db39816c9a2bb9cbee76ce/500x500-000000-80-0-0.jpg",
+        "album": "Chennai Express",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/f/0/56f7badf4bac108addfabf105883ca42.mp3?hdnea=exp=1783419275~acl=/api/1/1/5/6/f/0/56f7badf4bac108addfabf105883ca42.mp3*~data=user_id=0,application_id=42~hmac=500a68003d7a33a42ced85b080de1b79dfff0d691af64a80807c3b1d6b27274b",
+        "deezer_url": "https://www.deezer.com/track/3180473041",
+        "spotify_url": null
+    },
+    "georgia::vance joy": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/9e93933427b163146dfb6e6a1f7c8c25/500x500-000000-80-0-0.jpg",
+        "album": "I Have a Crush",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/b/0/9ab78f3804ca85ba36fc6e7a7f10ffa0.mp3?hdnea=exp=1783419276~acl=/api/1/1/9/a/b/0/9ab78f3804ca85ba36fc6e7a7f10ffa0.mp3*~data=user_id=0,application_id=42~hmac=126039a99f08f9d464c923a11c5b9e578bff98042ca2df6b501ad185fb8a6ffb",
+        "deezer_url": "https://www.deezer.com/track/4095945411",
+        "spotify_url": null
+    },
+    "atlantis   sped up version::seafret": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/94ec6d930bfa3079be75a27617ab2d42/500x500-000000-80-0-0.jpg",
+        "album": "Atlantis (Vari-Speed EP)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/2/0/5b2f67757502865ec369754db5ea3dfa.mp3?hdnea=exp=1783419276~acl=/api/1/1/5/b/2/0/5b2f67757502865ec369754db5ea3dfa.mp3*~data=user_id=0,application_id=42~hmac=fee1dd779192f59304421d35cc9d217d723f10fc10f3e18e69e94400c57b8d59",
+        "deezer_url": "https://www.deezer.com/track/1837747067",
+        "spotify_url": null
+    },
+    "beige::yoke lore": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/36417085993ee493ef80713e64f39f88/500x500-000000-80-0-0.jpg",
+        "album": "Goodpain",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/1/0/921d62862b03a8d664370b2b7bed814a.mp3?hdnea=exp=1783419277~acl=/api/1/1/9/2/1/0/921d62862b03a8d664370b2b7bed814a.mp3*~data=user_id=0,application_id=42~hmac=e46f28f89fd27eb1f1e8935e6c7b0af112d72917559fe6b5ac91393a2ebfc0a0",
+        "deezer_url": "https://www.deezer.com/track/1410538062",
+        "spotify_url": null
+    },
+    "last christmas::wham!": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/02a714c827c267c60b3d3d99ab4499a4/500x500-000000-80-0-0.jpg",
+        "album": "LAST CHRISTMAS",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/7/0/727d08d0f64345378254e4b433d2f9fd.mp3?hdnea=exp=1783426683~acl=/api/1/1/7/2/7/0/727d08d0f64345378254e4b433d2f9fd.mp3*~data=user_id=0,application_id=42~hmac=18e78735c8b9089cb2c36bdf1b078907f1d4c5108deab743692dd679157a231b",
+        "deezer_url": "https://www.deezer.com/track/1036590",
+        "spotify_url": null
+    },
+    "box of memories::josh kramer": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/af5b3b9aafb0c8bce77f8507851a333e/500x500-000000-80-0-0.jpg",
+        "album": "Box of Memories",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/1/0/6c1c59b2e7815ea74b0109bd07329c5c.mp3?hdnea=exp=1783426683~acl=/api/1/1/6/c/1/0/6c1c59b2e7815ea74b0109bd07329c5c.mp3*~data=user_id=0,application_id=42~hmac=35a9818dc40b48e1bb5a296ef1a98c7b00c6f02dd588e4efacf30a499b92b6a1",
+        "deezer_url": "https://www.deezer.com/track/1816848637",
+        "spotify_url": null
+    },
+    "like a g6::far east movement": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/824638ddc3e349c773b867c1e6562b97/500x500-000000-80-0-0.jpg",
+        "album": "Deluxe Songs",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/8/0/4189929f610183d154222d8a284117e6.mp3?hdnea=exp=1783426683~acl=/api/1/1/4/1/8/0/4189929f610183d154222d8a284117e6.mp3*~data=user_id=0,application_id=42~hmac=6f2a30ee3df72dc21e5578ae57bee5630175cb6ff73b9ead4d0497b19a602d5d",
+        "deezer_url": "https://www.deezer.com/track/7795396",
+        "spotify_url": null
+    },
+    "december, 1963 (oh what a night!)::frankie valli & the four seasons": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/be75ba2c4015a908e331d1574b64921f/500x500-000000-80-0-0.jpg",
+        "album": "Jaren 70 Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/f/0/0ef6b481a1612099e29ae94e1b79be67.mp3?hdnea=exp=1783426684~acl=/api/1/1/0/e/f/0/0ef6b481a1612099e29ae94e1b79be67.mp3*~data=user_id=0,application_id=42~hmac=4107714ef9357c48a5e1d183eae7ec3b1c583dbd00b9c8696d7bd6173f8c8d58",
+        "deezer_url": "https://www.deezer.com/track/1013234262",
+        "spotify_url": null
+    },
+    "gymnopédie no. 1::erik satie": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/a6886802f10fcfd526ce087aa845fe67/500x500-000000-80-0-0.jpg",
+        "album": "The 50 Greatest Pieces of Classical Music",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/f/0/36f5b34a06dceb481d6c1622961bf599.mp3?hdnea=exp=1783426684~acl=/api/1/1/3/6/f/0/36f5b34a06dceb481d6c1622961bf599.mp3*~data=user_id=0,application_id=42~hmac=11df01ffcde6457d12a373fcbf86db39769d35eb57ca2803d89ffec376e11476",
+        "deezer_url": "https://www.deezer.com/track/410625232",
+        "spotify_url": null
+    },
+    "pass the dutchie::musical youth": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/2f63d8e46b6ed7a88c4c1e8a1419f30d/500x500-000000-80-0-0.jpg",
+        "album": "Pass The Dutchie (12\" Version)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/4/0/194b7c7a74930015b29301e74c609fcb.mp3?hdnea=exp=1783426684~acl=/api/1/1/1/9/4/0/194b7c7a74930015b29301e74c609fcb.mp3*~data=user_id=0,application_id=42~hmac=b6e72137fbb80b9b8560e1b670170964d6478379c82f1cb9cedbd6d9d62a1245",
+        "deezer_url": "https://www.deezer.com/track/1906424057",
+        "spotify_url": null
+    },
+    "chopin: nocturne no. 20 in c sharp minor, op. posth.::frédéric chopin": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/dabd09bc9ba402089760a8df27fd86e5/500x500-000000-80-0-0.jpg",
+        "album": "Chopin The Complete Nocturnes",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/6/0/f063f7aeee6a874814741978ecbea2e0.mp3?hdnea=exp=1783426684~acl=/api/1/1/f/0/6/0/f063f7aeee6a874814741978ecbea2e0.mp3*~data=user_id=0,application_id=42~hmac=0c9579041dbe064a414be91bfef743cfb08472529b3252c941b48f16e9b9e05a",
+        "deezer_url": "https://www.deezer.com/track/641006262",
+        "spotify_url": null
+    },
+    "chaand baaliyan::aditya a": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/0855d4ac095f6ca490249ad538f398c2/500x500-000000-80-0-0.jpg",
+        "album": "Chaand Baaliyan",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/e/0/02ef0284ed1bbc0c77766db5e76d9abb.mp3?hdnea=exp=1783426684~acl=/api/1/1/0/2/e/0/02ef0284ed1bbc0c77766db5e76d9abb.mp3*~data=user_id=0,application_id=42~hmac=40db5010aeb4044903cd50e804c3b90f2a27b83e5b34f9771153dddd8793ba6b",
+        "deezer_url": "https://www.deezer.com/track/1662636212",
+        "spotify_url": null
+    },
+    "requiem, k. 626: lacrimosa::wolfgang amadeus mozart": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/a6886802f10fcfd526ce087aa845fe67/500x500-000000-80-0-0.jpg",
+        "album": "The 50 Greatest Pieces of Classical Music",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/b/0/acb176aa24868425a1cd6bbca083dad2.mp3?hdnea=exp=1783426685~acl=/api/1/1/a/c/b/0/acb176aa24868425a1cd6bbca083dad2.mp3*~data=user_id=0,application_id=42~hmac=77b8e89fdb86227d55103ae2f322cbb8b1f032595a50d577ca3d7d79c3b8fb9d",
+        "deezer_url": "https://www.deezer.com/track/410625242",
+        "spotify_url": null
+    },
+    "i'm on fire::bruce springsteen": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/106f651bf559796879b90e83c50b3e96/500x500-000000-80-0-0.jpg",
+        "album": "Born In The U.S.A.",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/d/0/c1d3383d0ec604498bdf2a2a1ace4c6e.mp3?hdnea=exp=1783426685~acl=/api/1/1/c/1/d/0/c1d3383d0ec604498bdf2a2a1ace4c6e.mp3*~data=user_id=0,application_id=42~hmac=a1888d8cdf3715904773cbc6e1aae059926fd5170a8f9ea452204557f10a39d3",
+        "deezer_url": "https://www.deezer.com/track/15586369",
+        "spotify_url": null
+    },
+    "clair de lune, l. 32::claude debussy": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/3f16747ad87312a96f2df313c4e86695/500x500-000000-80-0-0.jpg",
+        "album": "Claude Debussy (Classics)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/e/0/3ce59d1530d1487c7d8c4eba045e6610.mp3?hdnea=exp=1783426685~acl=/api/1/1/3/c/e/0/3ce59d1530d1487c7d8c4eba045e6610.mp3*~data=user_id=0,application_id=42~hmac=811ab3c6303f39580d5a16ed38ed1fdc2732cd5904fef6910388134c71a5ee10",
+        "deezer_url": "https://www.deezer.com/track/2030160207",
+        "spotify_url": null
+    },
+    "karma chameleon::culture club": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/80c0ec3358d1ea6b35743117213d6f34/500x500-000000-80-0-0.jpg",
+        "album": "Greatest Moments",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/a/0/89a55109e161fd266cbe0e1ca738b6fe.mp3?hdnea=exp=1783426685~acl=/api/1/1/8/9/a/0/89a55109e161fd266cbe0e1ca738b6fe.mp3*~data=user_id=0,application_id=42~hmac=f7c7f4daa57a76e504a419d64f4befbe5246f4bf87ea8d29a82a147d1aa88c4e",
+        "deezer_url": "https://www.deezer.com/track/115026982",
+        "spotify_url": null
+    },
+    "daniel::elton john": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/39fadeea226719d5a7af622d68117aa5/500x500-000000-80-0-0.jpg",
+        "album": "Gregorian Elton John",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/9/0/d0941eccb9675ef3eb44ac63dd156334.mp3?hdnea=exp=1783426685~acl=/api/1/1/d/0/9/0/d0941eccb9675ef3eb44ac63dd156334.mp3*~data=user_id=0,application_id=42~hmac=ce65c67adec0d6badda6db80da8bc035c283256d89e99c6cedc0b7f00eb02f94",
+        "deezer_url": "https://www.deezer.com/track/62686776",
+        "spotify_url": null
+    },
+    "play hard (feat. ne yo & akon)::david guetta": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/5188e4e97b28c14449f5422cafee65e3/500x500-000000-80-0-0.jpg",
+        "album": "Play Hard - 10s Anthems",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/9/0/81926596f6d0f4acfc92c65f3a2a7eb1.mp3?hdnea=exp=1783426685~acl=/api/1/1/8/1/9/0/81926596f6d0f4acfc92c65f3a2a7eb1.mp3*~data=user_id=0,application_id=42~hmac=29fa45d5b1b16fcd00c16707886b7ace43b7838cf10435e707d3db2c539ca413",
+        "deezer_url": "https://www.deezer.com/track/1523002972",
+        "spotify_url": null
+    },
+    "piano concerto no. 21 in c major, k. 467: ii. andante::wolfgang amadeus mozart": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/34be2dd75aea849026c98a1b6fbe44dd/500x500-000000-80-0-0.jpg",
+        "album": "Thanksgiving Classics – Classical & Harpsichord Traditional Music for Thanksgiving Dinner and Family Reunion",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/8/0/a18af581a9aaaeba7868b944d722444d.mp3?hdnea=exp=1783426685~acl=/api/1/1/a/1/8/0/a18af581a9aaaeba7868b944d722444d.mp3*~data=user_id=0,application_id=42~hmac=60d6098cf47c76c87c141613e315cce8d584079b4001fa8d4b54ef843926c5b4",
+        "deezer_url": "https://www.deezer.com/track/137153652",
+        "spotify_url": null
+    },
+    "without you (feat. usher)::david guetta": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/4d41be88a00710b50cbd8beea9ef5083/500x500-000000-80-0-0.jpg",
+        "album": "Without You (feat. Usher)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/4/0/a84067f15f73d70c08dc57a41ce43127.mp3?hdnea=exp=1783426686~acl=/api/1/1/a/8/4/0/a84067f15f73d70c08dc57a41ce43127.mp3*~data=user_id=0,application_id=42~hmac=2de4e1f12fb1c514e27d137911e1610797b50a5e992c543190057b2ff42d3022",
+        "deezer_url": "https://www.deezer.com/track/13727855",
+        "spotify_url": null
+    },
+    "rockin' around the christmas tree::brenda lee": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/735382c8bf544acb4e2465716e4738dc/500x500-000000-80-0-0.jpg",
+        "album": "The Christmas Music Anthology, Vol. 6",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/b/0/05be0b77f1079510ab2886a008a5f373.mp3?hdnea=exp=1783426686~acl=/api/1/1/0/5/b/0/05be0b77f1079510ab2886a008a5f373.mp3*~data=user_id=0,application_id=42~hmac=f566bf98f5ef05aaba8593742727afc99a6ec5a481ab1c47048aa0500b9c2ca7",
+        "deezer_url": "https://www.deezer.com/track/112893342",
+        "spotify_url": null
+    },
+    "nocturne no. 2 in e flat major, op. 9 no. 2::frédéric chopin": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/0d51cf1d0c7b9cc203d288460fc7a026/500x500-000000-80-0-0.jpg",
+        "album": "Plays Chopin's Nocturnes",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/3/0/583977a71990596e45b41ee4a013161e.mp3?hdnea=exp=1783426686~acl=/api/1/1/5/8/3/0/583977a71990596e45b41ee4a013161e.mp3*~data=user_id=0,application_id=42~hmac=e36058812141ab0f224733dbc65c55d451a64c2752fdd0447a5babe0f169e789",
+        "deezer_url": "https://www.deezer.com/track/64003579",
+        "spotify_url": null
+    },
+    "someone to spend time with::los retros": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/05490744fdf69e6f5a1f01d81597fe4d/500x500-000000-80-0-0.jpg",
+        "album": "Early Days (2016-2019)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/2/0/e22091485db6ff77925ad74294fb423a.mp3?hdnea=exp=1783426686~acl=/api/1/1/e/2/2/0/e22091485db6ff77925ad74294fb423a.mp3*~data=user_id=0,application_id=42~hmac=e4e8bad5d47ad9f944443bf64a759fc43fee6613fd4f55e623341c8b29fe0729",
+        "deezer_url": "https://www.deezer.com/track/3690754112",
+        "spotify_url": null
+    },
+    "the four seasons   winter in f minor, rv. 297: i. allegro non molto::antonio vivaldi": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/aff67c7eb97017b47616ec953521ab0c/500x500-000000-80-0-0.jpg",
+        "album": "Classical Serenade: Greensleeves, Vol. 17",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/1/0/d11f1402a0089d73ca65d8a3ff3d4f19.mp3?hdnea=exp=1783426686~acl=/api/1/1/d/1/1/0/d11f1402a0089d73ca65d8a3ff3d4f19.mp3*~data=user_id=0,application_id=42~hmac=53edfd0c9c71daccff67dc2f8a58570bb9d8cc083b9e773eaa02744c4e5b8d2d",
+        "deezer_url": "https://www.deezer.com/track/71029469",
+        "spotify_url": null
+    },
+    "dumb::nirvana": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/7b4b3ccd52e58bec9dc0c8ea1973b177/500x500-000000-80-0-0.jpg",
+        "album": "In Utero (30th Anniversary Super Deluxe)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/6/0/2368740585b2bc6a40889bb93060b84d.mp3?hdnea=exp=1783426687~acl=/api/1/1/2/3/6/0/2368740585b2bc6a40889bb93060b84d.mp3*~data=user_id=0,application_id=42~hmac=560ee7a5d8073ac23b55e34f368d4c25aeb77d489bc6d6a84fcfcfd69d637d2a",
+        "deezer_url": "https://www.deezer.com/track/2506654251",
+        "spotify_url": null
+    },
+    "i want more::marc benjamin": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/5c0aac924ee6be89d3d0545740ea7c6a/500x500-000000-80-0-0.jpg",
+        "album": "I Want More",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/0/0/7100aabf64aa5bb3f03be1179e3b629a.mp3?hdnea=exp=1783426687~acl=/api/1/1/7/1/0/0/7100aabf64aa5bb3f03be1179e3b629a.mp3*~data=user_id=0,application_id=42~hmac=823b77eb4d0cf1c59f3605df2570a884e109d3fda69b667cfe3ca24adedcc1ce",
+        "deezer_url": "https://www.deezer.com/track/1215809812",
+        "spotify_url": null
+    },
+    "hourglass::jiří horák": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/c0085135fa7d50ec50d0416c4ec352c3/500x500-000000-80-0-0.jpg",
+        "album": "Eventide",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/5/0/ce5e583084a2c6ccb2ce72c977e775e9.mp3?hdnea=exp=1783426687~acl=/api/1/1/c/e/5/0/ce5e583084a2c6ccb2ce72c977e775e9.mp3*~data=user_id=0,application_id=42~hmac=b0a8e61ff3da9dbe24d786449bd9366d577aa0d86ad478eda9298da56ef2b973",
+        "deezer_url": "https://www.deezer.com/track/1802981807",
+        "spotify_url": null
+    },
+    "gnossienne no. 1::erik satie": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/e70e7ea81297de935914ead4f403d096/500x500-000000-80-0-0.jpg",
+        "album": "Gnossiennes: Reconstructed",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/9/0/4d9eaec1caae21bed506bcfb60a75c84.mp3?hdnea=exp=1783426687~acl=/api/1/1/4/d/9/0/4d9eaec1caae21bed506bcfb60a75c84.mp3*~data=user_id=0,application_id=42~hmac=80db807e967868aaa468bd4505ad62c6d9daf102ac2dd2500185f79515a35090",
+        "deezer_url": "https://www.deezer.com/track/3209654631",
+        "spotify_url": null
+    },
+    "hold me closer::elton john": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/e899057a79bfe5b111c79159cf89b821/500x500-000000-80-0-0.jpg",
+        "album": "Hold Me Closer",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/f/0/36fd21cddbf5160c1bdd33cf5541eca5.mp3?hdnea=exp=1783426737~acl=/api/1/1/3/6/f/0/36fd21cddbf5160c1bdd33cf5541eca5.mp3*~data=user_id=0,application_id=42~hmac=fb40325c5d55f1c47cbb4e8d62be1b65ea904ceb001f8611b6ffb65a40cde917",
+        "deezer_url": "https://www.deezer.com/track/1879746947",
+        "spotify_url": null
+    },
+    "without me::eminem": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/500x500-000000-80-0-0.jpg",
+        "album": "The Eminem Show",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/b/0/aeb58f2f63ee57fb9c47cbe8fb5ccdaa.mp3?hdnea=exp=1783426737~acl=/api/1/1/a/e/b/0/aeb58f2f63ee57fb9c47cbe8fb5ccdaa.mp3*~data=user_id=0,application_id=42~hmac=db9dd2191268d282ba75b1b6fc313cde82df3281558b07c564ce32aa9de951ef",
+        "deezer_url": "https://www.deezer.com/track/916424",
+        "spotify_url": null
+    },
+    "ghost::justin bieber": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/ec6fe37fcdec781df628fdf9bd25073f/500x500-000000-80-0-0.jpg",
+        "album": "Justin Bieber - Piano Covers",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/b/0/1eb86c88aeb8efa6e3d11e3c28e9f9cf.mp3?hdnea=exp=1783426738~acl=/api/1/1/1/e/b/0/1eb86c88aeb8efa6e3d11e3c28e9f9cf.mp3*~data=user_id=0,application_id=42~hmac=3ffc5a98b679cfd1c1ab0e7ea1632de74930581bb11432183c5e443a4546b6dc",
+        "deezer_url": "https://www.deezer.com/track/2412060245",
+        "spotify_url": null
+    },
+    "hope::xxxtentacion": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/d68e6cf129e74898b9d436a37b410e1a/500x500-000000-80-0-0.jpg",
+        "album": "? (Deluxe)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/d/0/20d467adf7748877f9dd89adbf4e9a85.mp3?hdnea=exp=1783426738~acl=/api/1/1/2/0/d/0/20d467adf7748877f9dd89adbf4e9a85.mp3*~data=user_id=0,application_id=42~hmac=74f6a0d75720f9d4e7ac449eff34ca1632be6014f64e5a1f8de398c7c88c0d12",
+        "deezer_url": "https://www.deezer.com/track/743737752",
+        "spotify_url": null
+    },
+    "i was never there::the weeknd": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/57792c20d4bc39849786a9e235fe60e5/500x500-000000-80-0-0.jpg",
+        "album": "My Dear Melancholy,",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/5/0/635bd97e67205f5ca5c4b189bd18ee59.mp3?hdnea=exp=1783426751~acl=/api/1/1/6/3/5/0/635bd97e67205f5ca5c4b189bd18ee59.mp3*~data=user_id=0,application_id=42~hmac=bd461a75b0f99391d277e9ecff1dd925d47fb1a8eb3c12787c2c8bb75ac4d434",
+        "deezer_url": "https://www.deezer.com/track/675343172",
+        "spotify_url": null
+    },
+    "tourner dans le vide::indila": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/6efb3506ac68e18e23d8f62d8b38ebfb/500x500-000000-80-0-0.jpg",
+        "album": "Mini World",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/b/0/26b7dc9e037893450c3776d63cfa48ea.mp3?hdnea=exp=1783426751~acl=/api/1/1/2/6/b/0/26b7dc9e037893450c3776d63cfa48ea.mp3*~data=user_id=0,application_id=42~hmac=a1aea40358df42b37119bfae73666d30f16a29e0ebe9b9a421623216af5b3fec",
+        "deezer_url": "https://www.deezer.com/track/74427068",
+        "spotify_url": null
+    },
+    "nervous::the neighbourhood": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/a9d9bda18a953e9ae74e2af5d3d45610/500x500-000000-80-0-0.jpg",
+        "album": "Hard To Imagine The Neighbourhood Ever Changing",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/9/0/88905a9676395fe77654a30f1530821d.mp3?hdnea=exp=1783426751~acl=/api/1/1/8/8/9/0/88905a9676395fe77654a30f1530821d.mp3*~data=user_id=0,application_id=42~hmac=ef5640ea841b0d67777cc719cceef1089d746c4525b7b78042b3858cca5b575f",
+        "deezer_url": "https://www.deezer.com/track/576476012",
+        "spotify_url": null
+    },
+    "tom's diner::annenmaykantereit": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/733a33e4842ae44edf4d47a48f1d11da/500x500-000000-80-0-0.jpg",
+        "album": "Tom's Diner",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/b/0/92b747e2ef0e4fb5731b1d2d6803401a.mp3?hdnea=exp=1783426752~acl=/api/1/1/9/2/b/0/92b747e2ef0e4fb5731b1d2d6803401a.mp3*~data=user_id=0,application_id=42~hmac=c25596a2d2d6b035918c416cce21caf4912ecbc3de64ea9a00fc238d07afc7a8",
+        "deezer_url": "https://www.deezer.com/track/700711312",
+        "spotify_url": null
+    },
+    "bones::imagine dragons": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/1e70dfe85b51bacc19ff4df6f8726800/500x500-000000-80-0-0.jpg",
+        "album": "Bones",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/3/0/8d3b68d23d5f54d81156d40960ffded2.mp3?hdnea=exp=1783426752~acl=/api/1/1/8/d/3/0/8d3b68d23d5f54d81156d40960ffded2.mp3*~data=user_id=0,application_id=42~hmac=cd42c826e97a569dfd108a8b4dfbe976a1c9a81d78a477366ef9b54f0986161c",
+        "deezer_url": "https://www.deezer.com/track/1682954137",
+        "spotify_url": null
+    },
+    "nervous::john legend": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/7c5e7f1efe817ca21a8928cd52534ecf/500x500-000000-80-0-0.jpg",
+        "album": "LEGEND",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/7/0/0a70d3a92fe9abdb18b653845fb1389f.mp3?hdnea=exp=1783426752~acl=/api/1/1/0/a/7/0/0a70d3a92fe9abdb18b653845fb1389f.mp3*~data=user_id=0,application_id=42~hmac=37c904a52f6f8cb7a81fa9bd17360c74847ba891095bb4433843f886e8c31b93",
+        "deezer_url": "https://www.deezer.com/track/1896601987",
+        "spotify_url": null
+    },
+    "this girl (kungs vs. cookin' on 3 burners)::kungs": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/6945e1d1812cfd26b0ff668886ebfe46/500x500-000000-80-0-0.jpg",
+        "album": "This Girl - EP",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/3/0/b138bc74727f4e0044d84fc2dc47a0f4.mp3?hdnea=exp=1783426752~acl=/api/1/1/b/1/3/0/b138bc74727f4e0044d84fc2dc47a0f4.mp3*~data=user_id=0,application_id=42~hmac=3bbd712040446ad84dda79b40994fc6b0fb1a871212a7f2e0d065e803f71689f",
+        "deezer_url": "https://www.deezer.com/track/121593962",
+        "spotify_url": null
+    },
+    "nervous tics (feat. holly walker)::maribou state": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/46cabef8b4dca9382e22aedf2a39f466/500x500-000000-80-0-0.jpg",
+        "album": "Blackoak",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/d/0/06d3c894630da0adbe270b98a1045576.mp3?hdnea=exp=1783426752~acl=/api/1/1/0/6/d/0/06d3c894630da0adbe270b98a1045576.mp3*~data=user_id=0,application_id=42~hmac=2ef11d93fd311dc0d9b56ef93802647ab308f8d05db9f1512a935e55d24b6acb",
+        "deezer_url": "https://www.deezer.com/track/2372364895",
+        "spotify_url": null
+    },
+    "amado nervo::sayulita": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/5b7326a7dd28bdde196d6f6a0cfced71/500x500-000000-80-0-0.jpg",
+        "album": "Amado Nervo",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/c/0/28c977e6972cb26fc916d10e4784a407.mp3?hdnea=exp=1783426752~acl=/api/1/1/2/8/c/0/28c977e6972cb26fc916d10e4784a407.mp3*~data=user_id=0,application_id=42~hmac=16f36815c3a99e185f8cad48365b505d89bf14eece47661f5fbad4dd58d9b92f",
+        "deezer_url": "https://www.deezer.com/track/1463069862",
+        "spotify_url": null
+    },
+    "inner child::bts": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/ba01e3de4d64a272543c427914c49e8b/500x500-000000-80-0-0.jpg",
+        "album": "MAP OF THE SOUL : 7",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/2/0/ea2cbe504beb5096fcc6990536f6c16c.mp3?hdnea=exp=1783426752~acl=/api/1/1/e/a/2/0/ea2cbe504beb5096fcc6990536f6c16c.mp3*~data=user_id=0,application_id=42~hmac=21f5f3c9b545bdcc7f9740823c02c8ddc798ba2d6bc477c3ea36ab7747f55d7e",
+        "deezer_url": "https://www.deezer.com/track/1580983582",
+        "spotify_url": null
+    },
+    "someone you loved::lewis capaldi": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/88b880b6546533d0a987190292eef837/500x500-000000-80-0-0.jpg",
+        "album": "Someone You Loved (Originally performed by Lewis Capaldi)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/2/0/1f2d14d8ca42e375c8b90d2950f34a1d.mp3?hdnea=exp=1783426752~acl=/api/1/1/1/f/2/0/1f2d14d8ca42e375c8b90d2950f34a1d.mp3*~data=user_id=0,application_id=42~hmac=5b4a8cb72c4f8be88f45c85146e391ee226fb838abcb06a6322fb31ff6d0bb71",
+        "deezer_url": "https://www.deezer.com/track/2497506891",
+        "spotify_url": null
+    },
+    "nerve::iamjakehill": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/c6da167e7810c556e145c1b4c67db13d/500x500-000000-80-0-0.jpg",
+        "album": "dying lately",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/4/0/9e4109f4e4bef346f00b5c433fbe8090.mp3?hdnea=exp=1783426753~acl=/api/1/1/9/e/4/0/9e4109f4e4bef346f00b5c433fbe8090.mp3*~data=user_id=0,application_id=42~hmac=25a2d1d010b2689662d2c1f476de8f44130ef5e9e714567428fe72375667b024",
+        "deezer_url": "https://www.deezer.com/track/3984369851",
+        "spotify_url": null
+    },
+    "nero forte::slipknot": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/2da9b82c11f6ef11a8fcbba7bfb555bd/500x500-000000-80-0-0.jpg",
+        "album": "Dusk of Rock",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/6/0/f16bcd1b22942b87777015a0f407b321.mp3?hdnea=exp=1783426753~acl=/api/1/1/f/1/6/0/f16bcd1b22942b87777015a0f407b321.mp3*~data=user_id=0,application_id=42~hmac=03476a042e076a35e59ca417928395149aef8cc4249fad868a4d97d3f71a079b",
+        "deezer_url": "https://www.deezer.com/track/3409908391",
+        "spotify_url": null
+    },
+    "sick, nervous & broke!::jpegmafia": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/a6696f767c4d9abd6b776b2fa35d52cf/500x500-000000-80-0-0.jpg",
+        "album": "LP!",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/8/0/3282139101345f4d183c114f8faa9c76.mp3?hdnea=exp=1783426753~acl=/api/1/1/3/2/8/0/3282139101345f4d183c114f8faa9c76.mp3*~data=user_id=0,application_id=42~hmac=7c3abe968d797503258cc3656c77c73c2c07cf39fb9a20ca4397b071dcb6564d",
+        "deezer_url": "https://www.deezer.com/track/1525464822",
+        "spotify_url": null
+    },
+    "nerdesin::ezhel": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/866247578fc98bf465ca4779917b6c7f/500x500-000000-80-0-0.jpg",
+        "album": "Nerdesin",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/6/0/3960b0d2433f3332692ba126190d1859.mp3?hdnea=exp=1783426753~acl=/api/1/1/3/9/6/0/3960b0d2433f3332692ba126190d1859.mp3*~data=user_id=0,application_id=42~hmac=e4de02780c45a746240c13b10506f8d7b9ef8fd1e49cf9fda10ceabd09d9aa1c",
+        "deezer_url": "https://www.deezer.com/track/1815218487",
+        "spotify_url": null
+    },
+    "completamente nervioso::pappo": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/d125b6c99c94d31133bd550358ff8115/500x500-000000-80-0-0.jpg",
+        "album": "Pappo y Amigos, Vol. 2",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/1/0/791cba93efb6002f781c960b3978f64a.mp3?hdnea=exp=1783426754~acl=/api/1/1/7/9/1/0/791cba93efb6002f781c960b3978f64a.mp3*~data=user_id=0,application_id=42~hmac=6c7c4addd102b68ceb82fc9f3c96f40c140b087f1d9b9de20b1b2dc45ffa9d1d",
+        "deezer_url": "https://www.deezer.com/track/622453272",
+        "spotify_url": null
+    },
+    "run::onerepublic": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f5ea82a3db68153b5ce89c8c9d950023/500x500-000000-80-0-0.jpg",
+        "album": "One Night In Malibu",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/a/0/39a6e02771180453fbcc32a337f96b31.mp3?hdnea=exp=1783426778~acl=/api/1/1/3/9/a/0/39a6e02771180453fbcc32a337f96b31.mp3*~data=user_id=0,application_id=42~hmac=5a3132dbdc4e9e827c7e00b1489178fdede3b0d62dac732833dcacecd8e667d7",
+        "deezer_url": "https://www.deezer.com/track/1640375612",
+        "spotify_url": null
+    },
+    "walking on a dream::empire of the sun": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/63e0641afc551bf313b1e7027799a136/500x500-000000-80-0-0.jpg",
+        "album": "Walking On A Dream (Reimagined)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/9/0/bc9e0252e17bed71e4378803e787e3cd.mp3?hdnea=exp=1783426780~acl=/api/1/1/b/c/9/0/bc9e0252e17bed71e4378803e787e3cd.mp3*~data=user_id=0,application_id=42~hmac=60258511b0c54b430aee01dc421cad9046764f8465294531027c369eb1067291",
+        "deezer_url": "https://www.deezer.com/track/3566480171",
+        "spotify_url": null
+    },
+    "infinity::jaymes young": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/62980db30aca3993d0a113230694b9d1/500x500-000000-80-0-0.jpg",
+        "album": "Thank You for the Happiest Year of My Life",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/c/0/67ca71a1a4d741eeec6fa25e6edbcaef.mp3?hdnea=exp=1783426784~acl=/api/1/1/6/7/c/0/67ca71a1a4d741eeec6fa25e6edbcaef.mp3*~data=user_id=0,application_id=42~hmac=e104b40fed1af06a6556c1c715d3c75a4a1c65eda0da7bb31a91ef6508ca4528",
+        "deezer_url": "https://www.deezer.com/track/2139537227",
+        "spotify_url": null
+    },
+    "señorita::shawn mendes": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/4426e8a06d8d0cd96263094c6178bbf9/500x500-000000-80-0-0.jpg",
+        "album": "Señorita",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/3/0/5930dfc69d00f718d90a65d56b9ddd0a.mp3?hdnea=exp=1783426784~acl=/api/1/1/5/9/3/0/5930dfc69d00f718d90a65d56b9ddd0a.mp3*~data=user_id=0,application_id=42~hmac=a5dafb196651478ac2d47abd7047784047f3cbf96d0a95d58f3ba9e90a1842e1",
+        "deezer_url": "https://www.deezer.com/track/698905582",
+        "spotify_url": null
+    },
+    "on the floor::jennifer lopez": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/91a0ad607c0ed67831326f055f66afdf/500x500-000000-80-0-0.jpg",
+        "album": "LOVE? (Deluxe Edition)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/4/0/614290b292193f21f830bc8f0b23fdf9.mp3?hdnea=exp=1783426785~acl=/api/1/1/6/1/4/0/614290b292193f21f830bc8f0b23fdf9.mp3*~data=user_id=0,application_id=42~hmac=3b039f5d75c341ec192c3c2a3e607cdfd4371b2d580305fcb4aae126dccad24f",
+        "deezer_url": "https://www.deezer.com/track/10496686",
+        "spotify_url": null
+    },
+    "eye of the tiger::survivor": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/17026aa5289fb77285445b1c385de75c/500x500-000000-80-0-0.jpg",
+        "album": "Rocky III (Original Motion Picture Score)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/4/0/784b6fcbd45940c72023cecf3df1b4f8.mp3?hdnea=exp=1783426786~acl=/api/1/1/7/8/4/0/784b6fcbd45940c72023cecf3df1b4f8.mp3*~data=user_id=0,application_id=42~hmac=d5bb80adb84e8438f295cbb52b839fc024909879470420d5401b123e0201fe23",
+        "deezer_url": "https://www.deezer.com/track/3169795",
+        "spotify_url": null
+    },
+    "west coast::onerepublic": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/e268ac882562474421842bc1213e655c/500x500-000000-80-0-0.jpg",
+        "album": "Artificial Paradise (Super Deluxe)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/6/0/336158871e2aafd553f966ff342758b8.mp3?hdnea=exp=1783426786~acl=/api/1/1/3/3/6/0/336158871e2aafd553f966ff342758b8.mp3*~data=user_id=0,application_id=42~hmac=1fa95f23a75e42bb28795e7cb372679a1d89acda17c148d79a5d27260e3e043e",
+        "deezer_url": "https://www.deezer.com/track/3122649611",
+        "spotify_url": null
+    },
+    "boy with luv (feat. halsey)::bts": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/0f847107f942e717d388beb1a9aa73b7/500x500-000000-80-0-0.jpg",
+        "album": "MAP OF THE SOUL : PERSONA",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/b/0/29b046042cff97d8be58662908c37dc5.mp3?hdnea=exp=1783426786~acl=/api/1/1/2/9/b/0/29b046042cff97d8be58662908c37dc5.mp3*~data=user_id=0,application_id=42~hmac=bc299ef3c813c6d7afb52190f21e1e452d403bcdf8ab6501cc787e5dbfaab8af",
+        "deezer_url": "https://www.deezer.com/track/1580983352",
+        "spotify_url": null
+    },
+    "believer::imagine dragons": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/247b228179aea3b083eef43522b78b45/500x500-000000-80-0-0.jpg",
+        "album": "Evolve",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/e/0/cbe9e3bf5b7fb4c15dc76f53c2221559.mp3?hdnea=exp=1783426787~acl=/api/1/1/c/b/e/0/cbe9e3bf5b7fb4c15dc76f53c2221559.mp3*~data=user_id=0,application_id=42~hmac=fef186eb1d54e6311390e47d64c991551ab90e3e8a2e7dfc16ede5c9998f9f93",
+        "deezer_url": "https://www.deezer.com/track/528330441",
+        "spotify_url": null
+    },
+    "pumped up kicks::foster the people": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/500x500-000000-80-0-0.jpg",
+        "album": "Torches",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/8/0/eb86469502f0571746a40d280c53bc5a.mp3?hdnea=exp=1783426787~acl=/api/1/1/e/b/8/0/eb86469502f0571746a40d280c53bc5a.mp3*~data=user_id=0,application_id=42~hmac=4572f692d4d42b679cb5dd0162985342ac4c41fc4260acdf708f0599dbf96b21",
+        "deezer_url": "https://www.deezer.com/track/15546830",
+        "spotify_url": null
+    },
+    "counting stars::onerepublic": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/016f3117546e2bcc4229142c7268fb04/500x500-000000-80-0-0.jpg",
+        "album": "Counting Stars (2023 Version)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/6/0/b162cefdef23eb6dd2ce31f019563b48.mp3?hdnea=exp=1783427712~acl=/api/1/1/b/1/6/0/b162cefdef23eb6dd2ce31f019563b48.mp3*~data=user_id=0,application_id=42~hmac=dc98fbcb67e4c5cb6eed143d9f5a783d927d601b236a5fddfffda80f442b6972",
+        "deezer_url": "https://www.deezer.com/track/2444664705",
+        "spotify_url": null
+    },
+    "someday::onerepublic": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f5ea82a3db68153b5ce89c8c9d950023/500x500-000000-80-0-0.jpg",
+        "album": "One Night In Malibu",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/d/0/31d706cd6200c43e71ce959506c21f5b.mp3?hdnea=exp=1783427713~acl=/api/1/1/3/1/d/0/31d706cd6200c43e71ce959506c21f5b.mp3*~data=user_id=0,application_id=42~hmac=ba2f476536f4a224b74d5868813d3138db7fd5f828abab044852f40c303f7462",
+        "deezer_url": "https://www.deezer.com/track/1640375632",
+        "spotify_url": null
+    },
+    "black out days::phantogram": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/999a34342ea724914eea9b461402a2e5/500x500-000000-80-0-0.jpg",
+        "album": "Voices",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48aa7ba7b5ee3147094de286e2c547b9.mp3?hdnea=exp=1783427713~acl=/api/1/1/4/8/a/0/48aa7ba7b5ee3147094de286e2c547b9.mp3*~data=user_id=0,application_id=42~hmac=149167d1e3019f438a12795c0c3b5ddbb5bb1d286001493109d3be0593fc0ae5",
+        "deezer_url": "https://www.deezer.com/track/74835728",
+        "spotify_url": null
+    },
+    "beggin'::måneskin": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/feacef9f5e69daace8b3f39fdea11bd1/500x500-000000-80-0-0.jpg",
+        "album": "Viral Summer Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/1/0/1b1d973c22173fa447dd661d80c9128c.mp3?hdnea=exp=1783427713~acl=/api/1/1/1/b/1/0/1b1d973c22173fa447dd661d80c9128c.mp3*~data=user_id=0,application_id=42~hmac=53d5fc6afcbc008fc7b13a8fc03da35c64704970f7960c48c84c3ded9263b824",
+        "deezer_url": "https://www.deezer.com/track/1765777887",
+        "spotify_url": null
+    },
+    "how to save a life::the fray": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/25dca40b2df394ba29c824310daaf571/500x500-000000-80-0-0.jpg",
+        "album": "Pop Pool Party Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/3/0/7a373be20a468603f090f7aeed6c12d6.mp3?hdnea=exp=1783427714~acl=/api/1/1/7/a/3/0/7a373be20a468603f090f7aeed6c12d6.mp3*~data=user_id=0,application_id=42~hmac=3974649a3284d6c0a7705ea59e10490eda4fec54cb413d0557075e960deaafdf",
+        "deezer_url": "https://www.deezer.com/track/2753757801",
+        "spotify_url": null
+    },
+    "island in the sun::weezer": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/a67a3dc5916907b9d5679c068d874451/500x500-000000-80-0-0.jpg",
+        "album": "Weezer (Green Album)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/0/0/4c04b1949ee94c585ecbf98aca43bcd4.mp3?hdnea=exp=1783427714~acl=/api/1/1/4/c/0/0/4c04b1949ee94c585ecbf98aca43bcd4.mp3*~data=user_id=0,application_id=42~hmac=b280f51e5407d59a658f9aa5f4ab909d4df0c2acea29bec0587aa0beab0a524a",
+        "deezer_url": "https://www.deezer.com/track/2544628",
+        "spotify_url": null
+    },
+    "here comes the sun   remastered 2009::the beatles": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/32b6b5174e633cd6d182d00024dddcb5/500x500-000000-80-0-0.jpg",
+        "album": "The Beatles 1967 - 1970 (Remastered)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/e/0/d1eaf4f1e4b14b17f680cf56f9d73105.mp3?hdnea=exp=1783427715~acl=/api/1/1/d/1/e/0/d1eaf4f1e4b14b17f680cf56f9d73105.mp3*~data=user_id=0,application_id=42~hmac=6eab8fd359a38d1096ce443abcf993427b299b6027f9b14a5988b289b9647b7d",
+        "deezer_url": "https://www.deezer.com/track/116348126",
+        "spotify_url": null
+    },
+    "sweater weather::the neighbourhood": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/feacef9f5e69daace8b3f39fdea11bd1/500x500-000000-80-0-0.jpg",
+        "album": "Viral Summer Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/3/0/e73b0f2f9d4693c21c4df88ee6ea5d62.mp3?hdnea=exp=1783427810~acl=/api/1/1/e/7/3/0/e73b0f2f9d4693c21c4df88ee6ea5d62.mp3*~data=user_id=0,application_id=42~hmac=e9d1090f4ef2bd7232f71bca2498e2492eb901b1742e9a47ec2d0b6715775b45",
+        "deezer_url": "https://www.deezer.com/track/1765778387",
+        "spotify_url": null
+    },
+    "another love::tom odell": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/23d34526dc6ef2073bb854fc91a25112/500x500-000000-80-0-0.jpg",
+        "album": "Long Way Down (Deluxe)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/3/0/4b393b254e857c451c8eda85832d1fa9.mp3?hdnea=exp=1783427811~acl=/api/1/1/4/b/3/0/4b393b254e857c451c8eda85832d1fa9.mp3*~data=user_id=0,application_id=42~hmac=5730bdc2f9b90e939dcef8780bf598fc42c3e6affd2fa0d91ee6022448ceba7b",
+        "deezer_url": "https://www.deezer.com/track/65723649",
+        "spotify_url": null
+    },
+    "vegas (from the original motion picture soundtrack elvis)::doja cat": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/ad53860ee3ef4e28aa48bbe4132a54e5/500x500-000000-80-0-0.jpg",
+        "album": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/e/0/ceedfdb5a53f7b1239a2d2b79fd7a34a.mp3?hdnea=exp=1783427811~acl=/api/1/1/c/e/e/0/ceedfdb5a53f7b1239a2d2b79fd7a34a.mp3*~data=user_id=0,application_id=42~hmac=d52587c9256505d2ce591035917d708f3ec25cfbb255dd01a27cb809212afb07",
+        "deezer_url": "https://www.deezer.com/track/1738347617",
+        "spotify_url": null
+    },
+    "star walkin' (league of legends worlds anthem)::lil nas x": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/cdbebf6fddc6f64aa059d41d0ab56996/500x500-000000-80-0-0.jpg",
+        "album": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/1/0/8d1e59d57edfcd6c9e40223ebb7ca78d.mp3?hdnea=exp=1783427812~acl=/api/1/1/8/d/1/0/8d1e59d57edfcd6c9e40223ebb7ca78d.mp3*~data=user_id=0,application_id=42~hmac=a98590f67dc10a919652a1509396d807f571230b49701005e1c3a59bc7d52b2f",
+        "deezer_url": "https://www.deezer.com/track/1924639057",
+        "spotify_url": null
+    },
+    "where are you now::lost frequencies": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/e96f56329dc809d8cc1fc3818bf59bb2/500x500-000000-80-0-0.jpg",
+        "album": "Crosswalk, Vol. 1",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/5/0/9354c7d0d9f398479188851eeed5aa99.mp3?hdnea=exp=1783427812~acl=/api/1/1/9/3/5/0/9354c7d0d9f398479188851eeed5aa99.mp3*~data=user_id=0,application_id=42~hmac=400be6962f52225abd3a4891dd148b278b9713c1a5332fd5dffba9e368963598",
+        "deezer_url": "https://www.deezer.com/track/98669990",
+        "spotify_url": null
+    },
+    "hey, soul sister::train": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f99aadd71d26bf177e4baa7c7c5b8962/500x500-000000-80-0-0.jpg",
+        "album": "Summer Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/7/0/37751f6a8302b545ba0778ae53a7afdf.mp3?hdnea=exp=1783427826~acl=/api/1/1/3/7/7/0/37751f6a8302b545ba0778ae53a7afdf.mp3*~data=user_id=0,application_id=42~hmac=34a2d3a2d9a99548e3ca0b8ce8d6c20eb3d4e27e835833502a2530185920d4d1",
+        "deezer_url": "https://www.deezer.com/track/2736569171",
+        "spotify_url": null
+    },
+    "snow (hey oh)::red hot chili peppers": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/5c0bbf3081eb62bd1bb69ac581497115/500x500-000000-80-0-0.jpg",
+        "album": "Y2K Bangers",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/9/0/8199a2b66b31069b367d7fb0e2b31e61.mp3?hdnea=exp=1783427827~acl=/api/1/1/8/1/9/0/8199a2b66b31069b367d7fb0e2b31e61.mp3*~data=user_id=0,application_id=42~hmac=731f1fc0a6ecd36cde8c62817893c408293545b8ac240da7a94b683c960a8fb6",
+        "deezer_url": "https://www.deezer.com/track/4121683401",
+        "spotify_url": null
+    },
+    "hey there delilah::plain white t's": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/167680fcdb8000c93e80d978cb734153/500x500-000000-80-0-0.jpg",
+        "album": "Hey There Delilah - The Million Miler Reimagining",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/f/0/0bf1f571e856d56060f36fe4b1ec7ac2.mp3?hdnea=exp=1783427827~acl=/api/1/1/0/b/f/0/0bf1f571e856d56060f36fe4b1ec7ac2.mp3*~data=user_id=0,application_id=42~hmac=e92b4e0e159fb5c07eb2218047464a1d657ecc3a26f1be73f48a8e869ba46db4",
+        "deezer_url": "https://www.deezer.com/track/3565076541",
+        "spotify_url": null
+    },
+    "hey brother::avicii": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/ec97306735b46ec334e0ce562290775b/500x500-000000-80-0-0.jpg",
+        "album": "True",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/1/0/e61d5d580b8629fba97c35de7b9db5be.mp3?hdnea=exp=1783427827~acl=/api/1/1/e/6/1/0/e61d5d580b8629fba97c35de7b9db5be.mp3*~data=user_id=0,application_id=42~hmac=0344dacf1891cc18406f43cc582622608a882a3ec468f33c3ef566eb2b944e9a",
+        "deezer_url": "https://www.deezer.com/track/70266758",
+        "spotify_url": null
+    },
+    "hey mama (feat. nicki minaj, bebe rexha & afrojack)::david guetta": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/3741eb036d116713f9a2a2d20f33b814/500x500-000000-80-0-0.jpg",
+        "album": "Dance 360",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/a/0/1fafdda2dae04e22fffcdc192ecd6d1f.mp3?hdnea=exp=1783427828~acl=/api/1/1/1/f/a/0/1fafdda2dae04e22fffcdc192ecd6d1f.mp3*~data=user_id=0,application_id=42~hmac=2dde1751038421493d95b6f55b937526be6baf52e621dffc9501b88b52ca95f0",
+        "deezer_url": "https://www.deezer.com/track/3520355021",
+        "spotify_url": null
+    },
+    "hey jude   remastered 2015::the beatles": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/c65b3bd84e81056e060be144381c06c8/500x500-000000-80-0-0.jpg",
+        "album": "1 (Remastered)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/3/0/be3c33e5b05a25dc63b8951748615d74.mp3?hdnea=exp=1783427828~acl=/api/1/1/b/e/3/0/be3c33e5b05a25dc63b8951748615d74.mp3*~data=user_id=0,application_id=42~hmac=a8782fc526a1fd4c5e2e6a48aa9b8b5a2dbf518c06d945cafe80030fb04cfbb8",
+        "deezer_url": "https://www.deezer.com/track/116348632",
+        "spotify_url": null
+    },
+    "la corriente::bad bunny": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+        "album": "Un Verano Sin Ti",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/4/0/834cbc66b820bc8ee6a4f13fc363cdd5.mp3?hdnea=exp=1783428344~acl=/api/1/1/8/3/4/0/834cbc66b820bc8ee6a4f13fc363cdd5.mp3*~data=user_id=0,application_id=42~hmac=f4e83eafa5f8f4db2f1f6a9884e25515f686f0f0c0190f7128670175317a26ad",
+        "deezer_url": "https://www.deezer.com/track/1741494367",
+        "spotify_url": null
+    },
+    "what ifs (feat. lauren alaina)::kane brown": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/96527314219332c2abdd2c79d1ab45c9/500x500-000000-80-0-0.jpg",
+        "album": "Kane Brown",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/b/0/9eb5c35ab4882f298fbef9a28859e659.mp3?hdnea=exp=1783428344~acl=/api/1/1/9/e/b/0/9eb5c35ab4882f298fbef9a28859e659.mp3*~data=user_id=0,application_id=42~hmac=534700cff8da5b5611acebf1f8dcdcd9610eda0bc4199f51e12ddc1177766d41",
+        "deezer_url": "https://www.deezer.com/track/137202230",
+        "spotify_url": null
+    },
+    "la inocente::mora": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/0385ddab0f03acd721ba2620d122d80a/500x500-000000-80-0-0.jpg",
+        "album": "MICRODOSIS",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/5/0/a8505bb9ee1a5db91c1ef2ebf204a375.mp3?hdnea=exp=1783428344~acl=/api/1/1/a/8/5/0/a8505bb9ee1a5db91c1ef2ebf204a375.mp3*~data=user_id=0,application_id=42~hmac=81bf97365047e034b4a27fbdb5934e0b22ae27efff1c10d4b878d7b7b59c9645",
+        "deezer_url": "https://www.deezer.com/track/1704442327",
+        "spotify_url": null
+    },
+    "if i ruled the world (imagine that) (feat. lauryn hill)::nas": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/dc3d7abec463b08a0586c4e5680e2c22/500x500-000000-80-0-0.jpg",
+        "album": "It Was Written",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/f/0/eafb752520c0f947eb4ffe7fe01c32ba.mp3?hdnea=exp=1783428344~acl=/api/1/1/e/a/f/0/eafb752520c0f947eb4ffe7fe01c32ba.mp3*~data=user_id=0,application_id=42~hmac=0aeacd0e33c3b0050af147b5f2d3cdd4bbc44b20548de8a12dbb19cdfec4df71",
+        "deezer_url": "https://www.deezer.com/track/1015332",
+        "spotify_url": null
+    },
+    "make it right (feat. lauv)::bts": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f4be40e02c2a05f8e24e92cd5269b1a7/500x500-000000-80-0-0.jpg",
+        "album": "Make It Right (feat. Lauv)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/5/0/cb53c9432da7ef8f7744cc2062b1e98c.mp3?hdnea=exp=1783428345~acl=/api/1/1/c/b/5/0/cb53c9432da7ef8f7744cc2062b1e98c.mp3*~data=user_id=0,application_id=42~hmac=77f6b1e02d47ebaba65a330f7fc30e983094c7e804984b13e22ad031e45360e8",
+        "deezer_url": "https://www.deezer.com/track/1576170002",
+        "spotify_url": null
+    },
+    "lauren (i can't stay forever)::oden & fatzo": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b28318bd880a640c04e80cc590b1e7e9/500x500-000000-80-0-0.jpg",
+        "album": "Lauren (I Can't Stay Forever)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/0/0/1b0c2b52254a3fbd238c236d9b7d646f.mp3?hdnea=exp=1783428345~acl=/api/1/1/1/b/0/0/1b0c2b52254a3fbd238c236d9b7d646f.mp3*~data=user_id=0,application_id=42~hmac=e560728d494d40ea6446c2a8485d1bfb36486b143d416c47665cc6784f483447",
+        "deezer_url": "https://www.deezer.com/track/1498985822",
+        "spotify_url": null
+    },
+    "till i collapse::eminem": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/500x500-000000-80-0-0.jpg",
+        "album": "The Eminem Show",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/6/0/846995adc7246b0d3a90d6c3281a298a.mp3?hdnea=exp=1783428345~acl=/api/1/1/8/4/6/0/846995adc7246b0d3a90d6c3281a298a.mp3*~data=user_id=0,application_id=42~hmac=4548790d8c75be7cba0db44aae9751c4c8db42eaecd61fa2241e2643ad147aef",
+        "deezer_url": "https://www.deezer.com/track/916445",
+        "spotify_url": null
+    },
+    "all signs point to lauderdale::a day to remember": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/58a42cf03f45c5ef4782cfafb4e4a6ac/500x500-000000-80-0-0.jpg",
+        "album": "GYM RATS WORKOUT",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/c/0/5dca6084ef1b711a33da5615d46af2e4.mp3?hdnea=exp=1783428345~acl=/api/1/1/5/d/c/0/5dca6084ef1b711a33da5615d46af2e4.mp3*~data=user_id=0,application_id=42~hmac=3f47c4ad7488c8e3b7c58bae5dcb81a4ee31ae39a390b464f7a4c14390dd20d1",
+        "deezer_url": "https://www.deezer.com/track/4126948221",
+        "spotify_url": null
+    },
+    "laughter in the rain::neil sedaka": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/34e77521b3622366a8baccf66295a679/500x500-000000-80-0-0.jpg",
+        "album": "The Platinum Collection",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/2/0/d12b8bf7e799931a952768de494e0427.mp3?hdnea=exp=1783428346~acl=/api/1/1/d/1/2/0/d12b8bf7e799931a952768de494e0427.mp3*~data=user_id=0,application_id=42~hmac=5cf0cbe6accde74fddf8989e13b2e4d578f8906fc813d264d07244101ae04b77",
+        "deezer_url": "https://www.deezer.com/track/10670929",
+        "spotify_url": null
+    },
+    "if i were u (with lauv)::blackbear": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/8293e8bd8eb0cc4224bd8da67d0a8f36/500x500-000000-80-0-0.jpg",
+        "album": "everything means nothing",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/d/0/fed1839fef20eb2b78e68a20eb48eddc.mp3?hdnea=exp=1783428346~acl=/api/1/1/f/e/d/0/fed1839fef20eb2b78e68a20eb48eddc.mp3*~data=user_id=0,application_id=42~hmac=070917efa9258f2db520079712ae8636bc5dff470f619e020a69895997484915",
+        "deezer_url": "https://www.deezer.com/track/1430025042",
+        "spotify_url": null
+    },
+    "safe and sound::capital cities": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/2bcc37a9c6d460109fd42b47e505bf81/500x500-000000-80-0-0.jpg",
+        "album": "A Hurricane of Frowns",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/a/0/d1afad3f5a31ebfc1e8ecddca107eaeb.mp3?hdnea=exp=1783428371~acl=/api/1/1/d/1/a/0/d1afad3f5a31ebfc1e8ecddca107eaeb.mp3*~data=user_id=0,application_id=42~hmac=8972c3031d0d36f5a44fd65616ffc83f0737144df1cd7a834a3108600cc4e385",
+        "deezer_url": "https://www.deezer.com/track/3191186411",
+        "spotify_url": null
+    },
+    "on top of the world::imagine dragons": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/cc0dc7fbcbba2e64edeb091c7e339505/500x500-000000-80-0-0.jpg",
+        "album": "Imagine Dragons Live in Vegas",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/1/0/d61d92555057d57fae0249a313f549a5.mp3?hdnea=exp=1783428371~acl=/api/1/1/d/6/1/0/d61d92555057d57fae0249a313f549a5.mp3*~data=user_id=0,application_id=42~hmac=58921a3886e2d126dcb2420510aad0bedfd2d6944330a8b64883243f2c4c59b6",
+        "deezer_url": "https://www.deezer.com/track/2377630815",
+        "spotify_url": null
+    },
+    "classic::mkto": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/c82249553b5da540b5b4195cf2bc5879/500x500-000000-80-0-0.jpg",
+        "album": "Viral Summer Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/3/0/bf3fa11084a8cfceadcd546d5a034c22.mp3?hdnea=exp=1783428372~acl=/api/1/1/b/f/3/0/bf3fa11084a8cfceadcd546d5a034c22.mp3*~data=user_id=0,application_id=42~hmac=4db969dc173a4058c26861058e156fdfc20885850c404a3fe7cd6109cc8fdcbd",
+        "deezer_url": "https://www.deezer.com/track/1765772557",
+        "spotify_url": null
+    },
+    "it's time::imagine dragons": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/cc0dc7fbcbba2e64edeb091c7e339505/500x500-000000-80-0-0.jpg",
+        "album": "Imagine Dragons Live in Vegas",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/7/0/5271f7eda743e654a78b262bb6951a55.mp3?hdnea=exp=1783428372~acl=/api/1/1/5/2/7/0/5271f7eda743e654a78b262bb6951a55.mp3*~data=user_id=0,application_id=42~hmac=59d15fc59c2f3cc7663e9e016a7e8c8a79ed38f8998100462366c4422ac38a64",
+        "deezer_url": "https://www.deezer.com/track/2377630465",
+        "spotify_url": null
+    },
+    "muscle memory::kelsea ballerini": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/528f8ae9f48bf599de57b09c09722dc6/500x500-000000-80-0-0.jpg",
+        "album": "SUBJECT TO CHANGE",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/4/0/aa4f762be91e82255ae90b9e9dcd3228.mp3?hdnea=exp=1783428372~acl=/api/1/1/a/a/4/0/aa4f762be91e82255ae90b9e9dcd3228.mp3*~data=user_id=0,application_id=42~hmac=e20041e478f689ba533904fc9158123a40adc5ae0ca6b10e3dcdae05dbdae623",
+        "deezer_url": "https://www.deezer.com/track/1916417507",
+        "spotify_url": null
+    },
+    "boot scootin' boogie::brooks & dunn": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/c5922f1e99c05e0c8cc311e85a4614a3/500x500-000000-80-0-0.jpg",
+        "album": "Brand New Man",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/5/0/2a5e226e345ac2aeea35c512f7d09335.mp3?hdnea=exp=1783428373~acl=/api/1/1/2/a/5/0/2a5e226e345ac2aeea35c512f7d09335.mp3*~data=user_id=0,application_id=42~hmac=a7635fb9e14fe54f23161e02be851ab59a56d6980c51f2d260567b2f8dd07e11",
+        "deezer_url": "https://www.deezer.com/track/1076287",
+        "spotify_url": null
+    },
+    "somebody like that::tenille arts": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f0d58228edaadc53b2f210f843e652ac/500x500-000000-80-0-0.jpg",
+        "album": "Love,Heartbreak, & Everything in Between",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/a/0/b7a5858e0ac914129c4a97f64d9c2697.mp3?hdnea=exp=1783428373~acl=/api/1/1/b/7/a/0/b7a5858e0ac914129c4a97f64d9c2697.mp3*~data=user_id=0,application_id=42~hmac=99fe52f55c72328ae51926106b4dfb9a2ced05fa11f052e84430d844eea591c6",
+        "deezer_url": "https://www.deezer.com/track/2492768791",
+        "spotify_url": null
+    },
+    "life is a highway::rascal flatts": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/1a8528cfc428f9b4510e57bb88f80d48/500x500-000000-80-0-0.jpg",
+        "album": "Life Is A Highway: Refueled Duets",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/d/0/d1d7e930ccf2111624f086fd6dce6d3f.mp3?hdnea=exp=1783428373~acl=/api/1/1/d/1/d/0/d1d7e930ccf2111624f086fd6dce6d3f.mp3*~data=user_id=0,application_id=42~hmac=c805da4376610ffced53098070a2297bdf1f97931e882ebc98f282ed139fec4e",
+        "deezer_url": "https://www.deezer.com/track/3391405501",
+        "spotify_url": null
+    },
+    "electric love::børns": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/e8971e10df91a2844f6d32cabb18219c/500x500-000000-80-0-0.jpg",
+        "album": "Electric Love (Oliver Remix)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/3/0/d634cfe190d0a0ca8ab51d801b454d58.mp3?hdnea=exp=1783428374~acl=/api/1/1/d/6/3/0/d634cfe190d0a0ca8ab51d801b454d58.mp3*~data=user_id=0,application_id=42~hmac=0ec3b4a602deca3d0bc98c5916d895dd418c85f80b3e9190665c9d0459e624f4",
+        "deezer_url": "https://www.deezer.com/track/113418594",
+        "spotify_url": null
+    },
+    "high hopes::panic! at the disco": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/90f43d585634b61c72839580addc4fed/500x500-000000-80-0-0.jpg",
+        "album": "Pride Party",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/9/0/d9936e66a9c83f3eb2c682d4b7e7857e.mp3?hdnea=exp=1783428374~acl=/api/1/1/d/9/9/0/d9936e66a9c83f3eb2c682d4b7e7857e.mp3*~data=user_id=0,application_id=42~hmac=e2659b34d5d60dbabed132211d2eb2f798daa82a964ab60cc318b9837e5484f9",
+        "deezer_url": "https://www.deezer.com/track/1003458982",
+        "spotify_url": null
+    },
+    "how you remind me::nickelback": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/54d21f14095d4e33bb07dddc383b4d8a/500x500-000000-80-0-0.jpg",
+        "album": "Variadito: Los 2000",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/b/0/f6b71aed1e40b4b118aa2c4e5b0df202.mp3?hdnea=exp=1783428394~acl=/api/1/1/f/6/b/0/f6b71aed1e40b4b118aa2c4e5b0df202.mp3*~data=user_id=0,application_id=42~hmac=d393e38b06c9757a934e1332318798cdf59488b938bdab63b4fd9a248959b474",
+        "deezer_url": "https://www.deezer.com/track/4080248061",
+        "spotify_url": null
+    },
+    "you know how we do it::ice cube": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/655f28b5478cf4f1185c5886bc9935f8/500x500-000000-80-0-0.jpg",
+        "album": "Hip-Hop Fever",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/c/0/02cc79ceeb3820ddefc6f70aacd28de9.mp3?hdnea=exp=1783428394~acl=/api/1/1/0/2/c/0/02cc79ceeb3820ddefc6f70aacd28de9.mp3*~data=user_id=0,application_id=42~hmac=c47d2037e3c80ade46ad2d45825406af3c39a4a238e383244c5dd79949690ef1",
+        "deezer_url": "https://www.deezer.com/track/2753335071",
+        "spotify_url": null
+    },
+    "show me how::men i trust": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/6f4f35fdc77ef818f0e0e29211cac77f/500x500-000000-80-0-0.jpg",
+        "album": "Show Me How",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/d/0/4eda0d70644723e08fdffec9127a3e5f.mp3?hdnea=exp=1783428394~acl=/api/1/1/4/e/d/0/4eda0d70644723e08fdffec9127a3e5f.mp3*~data=user_id=0,application_id=42~hmac=d0a2bab4aefaf90198216cd37fb638627a94da9bee328db25fb184faf9ef4715",
+        "deezer_url": "https://www.deezer.com/track/2579890802",
+        "spotify_url": null
+    },
+    "how deep is your love (feat. disciples)::calvin harris": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f6a97799c408dc6620dca1890c5e5dbd/500x500-000000-80-0-0.jpg",
+        "album": "Laidback Beats",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/b/0/27b4b9baa8d63fd89616e2334b4b48e9.mp3?hdnea=exp=1783428395~acl=/api/1/1/2/7/b/0/27b4b9baa8d63fd89616e2334b4b48e9.mp3*~data=user_id=0,application_id=42~hmac=fe852cd6ff747e1184ce0feb7ad79d508ba2e5efe8d7346a1d6995b24b0a38af",
+        "deezer_url": "https://www.deezer.com/track/129312838",
+        "spotify_url": null
+    },
+    "psychosocial::slipknot": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/20caffc6185035f2afb598777cd0fdc9/500x500-000000-80-0-0.jpg",
+        "album": "Psychosocial Metal Hits",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/0/0/e60ec3ec3d6e0f811729eb910b71a35b.mp3?hdnea=exp=1783429070~acl=/api/1/1/e/6/0/0/e60ec3ec3d6e0f811729eb910b71a35b.mp3*~data=user_id=0,application_id=42~hmac=21f2b7b65cd7018d8649716cd40775e4eab0306052a2d187207916c25989cbf3",
+        "deezer_url": "https://www.deezer.com/track/1273159192",
+        "spotify_url": null
+    },
+    "knockin' on heaven's door::guns n' roses": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/c32f893b8670d5a3d9b1e70078bbc8fa/500x500-000000-80-0-0.jpg",
+        "album": "Use Your Illusion II",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/f/0/edfb2b7cf4665adcf6e57c038d4cee44.mp3?hdnea=exp=1783429072~acl=/api/1/1/e/d/f/0/edfb2b7cf4665adcf6e57c038d4cee44.mp3*~data=user_id=0,application_id=42~hmac=74ee66308576ab233d4eb81de461a35b139f1d940940e02c3fec7f0087bd3f09",
+        "deezer_url": "https://www.deezer.com/track/505510232",
+        "spotify_url": null
+    },
+    "the loneliest::måneskin": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/27cebd2c90dd760f85f698ea8e2e3275/500x500-000000-80-0-0.jpg",
+        "album": "THE LONELIEST",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/9/0/b390eb4552df3c1f6cf8a24f03bf7d9c.mp3?hdnea=exp=1783429074~acl=/api/1/1/b/3/9/0/b390eb4552df3c1f6cf8a24f03bf7d9c.mp3*~data=user_id=0,application_id=42~hmac=5cad9d9bb152415d0968f82359b2d49ddb19670c658061074455e0763a9893b8",
+        "deezer_url": "https://www.deezer.com/track/1951821737",
+        "spotify_url": null
+    },
+    "i lived::onerepublic": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f5ea82a3db68153b5ce89c8c9d950023/500x500-000000-80-0-0.jpg",
+        "album": "One Night In Malibu",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/a/0/9dae8af5de067400837b14455917e9ad.mp3?hdnea=exp=1783429077~acl=/api/1/1/9/d/a/0/9dae8af5de067400837b14455917e9ad.mp3*~data=user_id=0,application_id=42~hmac=b3c4beee602a0557f6a8716b4d8bd082514001cc797453bc51ad0f52b8520983",
+        "deezer_url": "https://www.deezer.com/track/1640375622",
+        "spotify_url": null
+    },
+    "tongue tied::grouplove": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/08da77703097fbbb1175b5aef5da3801/500x500-000000-80-0-0.jpg",
+        "album": "Rock N' Roll You Won't Save Me (Live)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/9/0/319861f9ef333c5767523ce87132f1af.mp3?hdnea=exp=1783429078~acl=/api/1/1/3/1/9/0/319861f9ef333c5767523ce87132f1af.mp3*~data=user_id=0,application_id=42~hmac=3900ef2a1873de8dbe357c9afb82010a72409f08d2806f1a306361b4d64c242d",
+        "deezer_url": "https://www.deezer.com/track/3271759561",
+        "spotify_url": null
+    },
+    "street fight::adam jensen": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/8a87270086370ba5cea88d255f90735b/500x500-000000-80-0-0.jpg",
+        "album": "Street Fight",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/0/0/120ccbda7f7d83c6eb5972760c93f5ae.mp3?hdnea=exp=1783429082~acl=/api/1/1/1/2/0/0/120ccbda7f7d83c6eb5972760c93f5ae.mp3*~data=user_id=0,application_id=42~hmac=5988a658692e523dcf809e76228403843b85b2bbb91bfcac21f1ec0f8d0ad8e9",
+        "deezer_url": "https://www.deezer.com/track/1698366357",
+        "spotify_url": null
+    },
+    "brazil::declan mckenna": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/1370614479a2df6e6003ddf498d32bb6/500x500-000000-80-0-0.jpg",
+        "album": "Brazil",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/1/0/84152b9c9f205d0eb51928e98258aafc.mp3?hdnea=exp=1783429087~acl=/api/1/1/8/4/1/0/84152b9c9f205d0eb51928e98258aafc.mp3*~data=user_id=0,application_id=42~hmac=7b4d1a1f264df6c4dc3bdd858a1e0d2627979ec9871d0c148f4d924e228e7247",
+        "deezer_url": "https://www.deezer.com/track/114392622",
+        "spotify_url": null
+    },
+    "drag me down::one direction": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/9c34cecac8e6a5042f927f100474152e/500x500-000000-80-0-0.jpg",
+        "album": "Remixes - EP",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/2/0/572884d0f728148ca39977cd407574d6.mp3?hdnea=exp=1783429277~acl=/api/1/1/5/7/2/0/572884d0f728148ca39977cd407574d6.mp3*~data=user_id=0,application_id=42~hmac=a4c19f22baa8ed0a3c695288f01e500818a1f11a1d90ebe7b18ffb95f630ea92",
+        "deezer_url": "https://www.deezer.com/track/1024619952",
+        "spotify_url": null
+    },
+    "sorry::justin bieber": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/9c1e209529828fbfce33687aec65170f/500x500-000000-80-0-0.jpg",
+        "album": "Sorry (Latino Remix)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/8/0/238ca3a5c5b7c3e5b5da35162d412eac.mp3?hdnea=exp=1783429278~acl=/api/1/1/2/3/8/0/238ca3a5c5b7c3e5b5da35162d412eac.mp3*~data=user_id=0,application_id=42~hmac=014aab4a39bc578ee1517d6132630963a48b308fe8e9c9de527eb64b18c07d58",
+        "deezer_url": "https://www.deezer.com/track/111929834",
+        "spotify_url": null
+    },
+    "gali gali (from \"kgf chapter 1\")::neha kakkar": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f2ab83dd555f7a70dc4e6508c2d9e8f3/500x500-000000-80-0-0.jpg",
+        "album": "Frolic Neha Kakkar",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/b/0/3db6393e631fe65da28651b07960ca22.mp3?hdnea=exp=1783429278~acl=/api/1/1/3/d/b/0/3db6393e631fe65da28651b07960ca22.mp3*~data=user_id=0,application_id=42~hmac=41d6c569c793856810b3c71b50fac7619fb5636f828aa804d5d5ca3ee89c5e43",
+        "deezer_url": "https://www.deezer.com/track/3174436501",
+        "spotify_url": null
+    },
+    "love dose::yo yo honey singh": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/68af4c05cc7146b3e7dd7252ff12acc3/500x500-000000-80-0-0.jpg",
+        "album": "Desi Kalakaar",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/e/0/42e01088edf5b506862753bc921541fc.mp3?hdnea=exp=1783429281~acl=/api/1/1/4/2/e/0/42e01088edf5b506862753bc921541fc.mp3*~data=user_id=0,application_id=42~hmac=15ab4431d8c0ee247e37c6e0272d7504c5132ecdf35d1fcbce3b155bccd3449a",
+        "deezer_url": "https://www.deezer.com/track/3180376291",
+        "spotify_url": null
+    },
+    "haaye oye (feat. ash king)::qaran": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/94134883e928abf84d9ccdaf040d587d/500x500-000000-80-0-0.jpg",
+        "album": "Haaye Oye (feat. Ash King)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/1/0/db1a32bd8bb1eae4f97d92d7c05829a3.mp3?hdnea=exp=1783429281~acl=/api/1/1/d/b/1/0/db1a32bd8bb1eae4f97d92d7c05829a3.mp3*~data=user_id=0,application_id=42~hmac=5318246f4afda3c4e9b6df38ae63ff2c61aec4266e00029561e8f162eee13425",
+        "deezer_url": "https://www.deezer.com/track/651593592",
+        "spotify_url": null
+    },
+    "bom diggy diggy::zack knight": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/d7d768cba47ff660bbcb03fd7f5668bf/500x500-000000-80-0-0.jpg",
+        "album": "Kartik's Kingdom",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/9/0/999a9108ade9248b4b5bd4aa6be6c98a.mp3?hdnea=exp=1783429281~acl=/api/1/1/9/9/9/0/999a9108ade9248b4b5bd4aa6be6c98a.mp3*~data=user_id=0,application_id=42~hmac=b937d187b2317af5e26a708dd9bf356bcec555544e4b639543adb6ace7ee2363",
+        "deezer_url": "https://www.deezer.com/track/3145974371",
+        "spotify_url": null
+    },
+    "born to shine::diljit dosanjh": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/87516b74e8e95b373c57a5b74ff2a769/500x500-000000-80-0-0.jpg",
+        "album": "G.O.A.T.",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/4/0/ce4d8c582a7505e46c00c933a1a30b15.mp3?hdnea=exp=1783429282~acl=/api/1/1/c/e/4/0/ce4d8c582a7505e46c00c933a1a30b15.mp3*~data=user_id=0,application_id=42~hmac=3476ba9d3d9e3851989b204315b8aa1c61608d10f44f986e40b10fae2ab191fc",
+        "deezer_url": "https://www.deezer.com/track/1022106852",
+        "spotify_url": null
+    },
+    "deux arabesques, l66: no. 1: andantino con moto::claude debussy": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/13e0487b12fb624bc0936a27a13a99b7/500x500-000000-80-0-0.jpg",
+        "album": "Deux Arabesques, L66 No. 1 Andantino con moto (Felt Piano)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/c/0/fcca516d44c988204ba33c60e2915b2a.mp3?hdnea=exp=1783432140~acl=/api/1/1/f/c/c/0/fcca516d44c988204ba33c60e2915b2a.mp3*~data=user_id=0,application_id=42~hmac=33456294e971c61fe08e942a030adf46f769cfbd4af4bba5c29e3e34006d6344",
+        "deezer_url": "https://www.deezer.com/track/2780999671",
+        "spotify_url": null
+    },
+    "clearly::roger eno": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/b376304316e83ebf54924accc190327a/500x500-000000-80-0-0.jpg",
+        "album": "The Turning Year",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/2/0/4024424dfb3f86c9b7ffb7db9d126b73.mp3?hdnea=exp=1783432141~acl=/api/1/1/4/0/2/0/4024424dfb3f86c9b7ffb7db9d126b73.mp3*~data=user_id=0,application_id=42~hmac=d8302ef21ef65b1bff2036365221e67fb4887f7737ac94a4eaaf11fce8f8dd3f",
+        "deezer_url": "https://www.deezer.com/track/1721680077",
+        "spotify_url": null
+    },
+    "cello suite no. 1 in g major, bwv 1007: i. prélude::johann sebastian bach": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f584b9733361aaf23377c518141210ac/500x500-000000-80-0-0.jpg",
+        "album": "Classical Masterpieces: Symphony No. 5 & More, Vol. 3",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/6/0/52653e63a02c7921fb21bc70223f071e.mp3?hdnea=exp=1783432141~acl=/api/1/1/5/2/6/0/52653e63a02c7921fb21bc70223f071e.mp3*~data=user_id=0,application_id=42~hmac=175dab9c72e52cc66475b4bad9a87a38e59dd542323f974a0c41d64e6de9eee4",
+        "deezer_url": "https://www.deezer.com/track/71029102",
+        "spotify_url": null
+    },
+    "one summer day::joe hisaishi": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/45bba02202fd0ac42b6099bf93ec1e4d/500x500-000000-80-0-0.jpg",
+        "album": "Spirited Away Soundtrack",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/d/0/79d3b5d8d7ec48006a854b852cc12302.mp3?hdnea=exp=1783432142~acl=/api/1/1/7/9/d/0/79d3b5d8d7ec48006a854b852cc12302.mp3*~data=user_id=0,application_id=42~hmac=ef81b010d4d30fcbd67f0f6796f8a35ffe1c73e562795022510de8b0a7913b61",
+        "deezer_url": "https://www.deezer.com/track/1120335972",
+        "spotify_url": null
+    },
+    "3 gymnopédies: no. 1 lent et douloureux::erik satie": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/8aa99d8f32cbcf85cfe026e1db3d315e/500x500-000000-80-0-0.jpg",
+        "album": "3 Gymnopédies, IES 26: Gymnopédie No. 1. Lent et douloureux (Arr. for Guitar)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/a/0/81a184a47c7a48620bac1b83c3d4224f.mp3?hdnea=exp=1783432142~acl=/api/1/1/8/1/a/0/81a184a47c7a48620bac1b83c3d4224f.mp3*~data=user_id=0,application_id=42~hmac=62aa539d5a1e4a409dd141ff869fa2e5a1acebd1b1bfa78096849f72956a4a14",
+        "deezer_url": "https://www.deezer.com/track/2946571881",
+        "spotify_url": null
+    },
+    "fantaisie impromptu in c sharp minor, op. 66::frédéric chopin": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/3ee878717528323b003b49afb2c77c04/500x500-000000-80-0-0.jpg",
+        "album": "Ilyun Bürkev Plays Chopin & Hope for Future",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/b/0/04b415aeb8b7380ea369fbf4a5066dde.mp3?hdnea=exp=1783432143~acl=/api/1/1/0/4/b/0/04b415aeb8b7380ea369fbf4a5066dde.mp3*~data=user_id=0,application_id=42~hmac=eaaa763d4d443c771ef8c57afd4f28e630b23fe1e6478d5c6719ab126b69d427",
+        "deezer_url": "https://www.deezer.com/track/3864441621",
+        "spotify_url": null
+    },
+    "3 gymnopédies: i. lent et douloureux::erik satie": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/f031b2585dce9a7e6f67a2c4247fa83c/500x500-000000-80-0-0.jpg",
+        "album": "Satie: Gymnopedies",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/d/0/90da78834ca50cab2d16e78a12f55754.mp3?hdnea=exp=1783432143~acl=/api/1/1/9/0/d/0/90da78834ca50cab2d16e78a12f55754.mp3*~data=user_id=0,application_id=42~hmac=b03fda1bc5c7b323a3c8adf4c82f10d44bc3abdd568dabe0a3df45fd0225ee79",
+        "deezer_url": "https://www.deezer.com/track/66948757",
+        "spotify_url": null
+    },
+    "préludes / book 1, l.117: 8. la fille aux cheveux de lin::claude debussy": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/bbaa8f0d8f340e085bb5a18d7ce06e14/500x500-000000-80-0-0.jpg",
+        "album": "The Best of Debussy",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/3/0/c93b915e68e85e70e5f6735f56f96d92.mp3?hdnea=exp=1783432143~acl=/api/1/1/c/9/3/0/c93b915e68e85e70e5f6735f56f96d92.mp3*~data=user_id=0,application_id=42~hmac=bc734b05b9da65f1fcad10b2ea9ef8c063f71ce5b169b19edf18f708f8a16c8f",
+        "deezer_url": "https://www.deezer.com/track/2966819541",
+        "spotify_url": null
+    },
+    "piano sonata no. 12 in f major, k. 332: ii. adagio::wolfgang amadeus mozart": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/07930f5704b6a2151d4a699d76db4e02/500x500-000000-80-0-0.jpg",
+        "album": "Mozart: Five Piano Sonatas K. 310, K. 330, K. 331, K. 332, K. 333",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/2/0/5926b6dd9383f874852b4124f14739ec.mp3?hdnea=exp=1783432144~acl=/api/1/1/5/9/2/0/5926b6dd9383f874852b4124f14739ec.mp3*~data=user_id=0,application_id=42~hmac=d5fa0d41009e40754cf21266e35da483fdd009728f76fe6c3bb7aaa10cf67280",
+        "deezer_url": "https://www.deezer.com/track/68167656",
+        "spotify_url": null
+    },
+    "these nights::loud luxury": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/7115974fc25090ce85d10ebf39278a9d/500x500-000000-80-0-0.jpg",
+        "album": "These Nights",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/0/0/2d0083e6d108ea210b4ee177ad634a34.mp3?hdnea=exp=1783432168~acl=/api/1/1/2/d/0/0/2d0083e6d108ea210b4ee177ad634a34.mp3*~data=user_id=0,application_id=42~hmac=cef342f55f22e49889032686c7ada1f31c42d68dbd84d5582cb16a3b8a13ed04",
+        "deezer_url": "https://www.deezer.com/track/4128070321",
+        "spotify_url": null
+    },
+    "lovers on the sun (feat. sam martin)::david guetta": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/3ee7d7f62d3d1a0b0f095a7f9b8bc32c/500x500-000000-80-0-0.jpg",
+        "album": "Champagne & Party!",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/3/0/8135057f669ab76ffb4f032be7748fb8.mp3?hdnea=exp=1783432168~acl=/api/1/1/8/1/3/0/8135057f669ab76ffb4f032be7748fb8.mp3*~data=user_id=0,application_id=42~hmac=05355269142bf29a42653cede8628b92ddb1cc02404be964cfb23d01a70a2aca",
+        "deezer_url": "https://www.deezer.com/track/2180049127",
+        "spotify_url": null
+    },
+    "heroes tonight::janji": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/ab59dfbe81ebf0dd5e8758a6e2f43b75/500x500-000000-80-0-0.jpg",
+        "album": "Heroes Tonight (Sped Up/Slowed)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/b/0/04ba3871433fb1539fc3a79e58b363ae.mp3?hdnea=exp=1783432168~acl=/api/1/1/0/4/b/0/04ba3871433fb1539fc3a79e58b363ae.mp3*~data=user_id=0,application_id=42~hmac=18a1389560419d36bc7072e153209e1fbf23d203126cfd1115d4bcf58a28b2a2",
+        "deezer_url": "https://www.deezer.com/track/3786522092",
+        "spotify_url": null
+    },
+    "undeniable (feat. x ambassadors)::kygo": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/fdef3586a79890a5b3d29d21f6916f9c/500x500-000000-80-0-0.jpg",
+        "album": "Undeniable (feat. X Ambassadors)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/8/0/f382ba9f170779de322cfcc7a41d70d0.mp3?hdnea=exp=1783432169~acl=/api/1/1/f/3/8/0/f382ba9f170779de322cfcc7a41d70d0.mp3*~data=user_id=0,application_id=42~hmac=54e23be02108388050dff6cfbfc6cc286a5a4556fbba473f9c6b8c8a7c4d968f",
+        "deezer_url": "https://www.deezer.com/track/1516893592",
+        "spotify_url": null
+    },
+    "on & on::cartoon": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/fab8a678382817d89f8b76f73aed6915/500x500-000000-80-0-0.jpg",
+        "album": "On & On",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/2/0/85213adaf9b2eb99b294dbb7fedbf2ed.mp3?hdnea=exp=1783432169~acl=/api/1/1/8/5/2/0/85213adaf9b2eb99b294dbb7fedbf2ed.mp3*~data=user_id=0,application_id=42~hmac=e60c82bf2c4889b3f827f39e358f519963f66787bb5ba0db478c6c5caa498b72",
+        "deezer_url": "https://www.deezer.com/track/3794588652",
+        "spotify_url": null
+    },
+    "traitor::olivia rodrigo": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/eff99281286f25dbbafe652c982102bd/500x500-000000-80-0-0.jpg",
+        "album": "Traitor (Smooth piano cover version)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/e/0/24e7449fdba3747462473728dcd9142a.mp3?hdnea=exp=1783433125~acl=/api/1/1/2/4/e/0/24e7449fdba3747462473728dcd9142a.mp3*~data=user_id=0,application_id=42~hmac=27eba74d97f57b4a457682421fea079d144b4a346d9aae3b053f9d68809eb591",
+        "deezer_url": "https://www.deezer.com/track/2443886035",
+        "spotify_url": null
+    },
+    "happier than ever::billie eilish": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/bb2880548dd3bc71fb97def2eedec130/500x500-000000-80-0-0.jpg",
+        "album": "Happier Than Ever (Edit)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/f/0/4cf54523e104aedaa1ea2fa994469039.mp3?hdnea=exp=1783433125~acl=/api/1/1/4/c/f/0/4cf54523e104aedaa1ea2fa994469039.mp3*~data=user_id=0,application_id=42~hmac=16cad6ba858877d93f3b68df59e0269d321122badd8c494bf60d530ebb3ae2d8",
+        "deezer_url": "https://www.deezer.com/track/1483895182",
+        "spotify_url": null
+    },
+    "revenge::xxxtentacion": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/6968125deace3216346acdba1633837c/500x500-000000-80-0-0.jpg",
+        "album": "Revenge",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/7/0/c87539ccaf0ef2157cdc4c8327e6d2ca.mp3?hdnea=exp=1783433126~acl=/api/1/1/c/8/7/0/c87539ccaf0ef2157cdc4c8327e6d2ca.mp3*~data=user_id=0,application_id=42~hmac=6ba7079482b2e5e0889e7a13c86d9d76007cf21830f8a485f94f7bc05019198e",
+        "deezer_url": "https://www.deezer.com/track/363712951",
+        "spotify_url": null
+    },
+    "need you now::lady a": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/d93d303cbbf34e698f0568bcfc4f6282/500x500-000000-80-0-0.jpg",
+        "album": "Golden (Deluxe Edition)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/4/0/5145f6544f6388f3cbf09cdf78794bdf.mp3?hdnea=exp=1783433138~acl=/api/1/1/5/1/4/0/5145f6544f6388f3cbf09cdf78794bdf.mp3*~data=user_id=0,application_id=42~hmac=33760ec36ea18c2f5bee742656db1663d9d1ebdd5c6ff120dbf1668f8f995ab0",
+        "deezer_url": "https://www.deezer.com/track/72294563",
+        "spotify_url": null
+    },
+    "your man::josh turner": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/5ea74b51ba859093298d3c4a40b8a637/500x500-000000-80-0-0.jpg",
+        "album": "Your Man",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/7/0/9e73901f3e09af93dcd7c4946d2ca283.mp3?hdnea=exp=1783433139~acl=/api/1/1/9/e/7/0/9e73901f3e09af93dcd7c4946d2ca283.mp3*~data=user_id=0,application_id=42~hmac=26f6a4d410505f88b064a942a935d245e6b949f2a1050b5baf0555297be49b19",
+        "deezer_url": "https://www.deezer.com/track/2533451",
+        "spotify_url": null
+    },
+    "jolene::dolly parton": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/4c0f398e59d96dc5d4b77322eb57874c/500x500-000000-80-0-0.jpg",
+        "album": "Rockstar (Deluxe)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/d/0/25d01af66ac1085b9788c587f53d6b1c.mp3?hdnea=exp=1783433139~acl=/api/1/1/2/5/d/0/25d01af66ac1085b9788c587f53d6b1c.mp3*~data=user_id=0,application_id=42~hmac=d33559facfa837276b93635fe1ac286ef275176a443fe84f29c79837991a297c",
+        "deezer_url": "https://www.deezer.com/track/2618549542",
+        "spotify_url": null
+    },
+    "memory::kane brown": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/ad6f8fe063b5a78c7eabf2a60b6937f3/500x500-000000-80-0-0.jpg",
+        "album": "Memory",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/4/0/3c4b0c8085341c787bafd6b7d4ec0362.mp3?hdnea=exp=1783433140~acl=/api/1/1/3/c/4/0/3c4b0c8085341c787bafd6b7d4ec0362.mp3*~data=user_id=0,application_id=42~hmac=09a648b57b4733fbf9103269427bfe631608c0a16d81dcec33587b1d1f129454",
+        "deezer_url": "https://www.deezer.com/track/1421372362",
+        "spotify_url": null
+    },
+    "good time::alan jackson": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/715aae808ab0c89ef47eb7001d48b352/500x500-000000-80-0-0.jpg",
+        "album": "Genuine: The Alan Jackson Story",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/d/0/7fda6b32013a13c3a8efddd45c5f9371.mp3?hdnea=exp=1783433140~acl=/api/1/1/7/f/d/0/7fda6b32013a13c3a8efddd45c5f9371.mp3*~data=user_id=0,application_id=42~hmac=c310f43cc289674bec5864b7c114a817b89e2492f474463c345f814033ab8922",
+        "deezer_url": "https://www.deezer.com/track/129633204",
+        "spotify_url": null
+    },
+    "play it again::luke bryan": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/e1774316f3fef726b61d14698aaa3dac/500x500-000000-80-0-0.jpg",
+        "album": "Greatest Hits Karaoke (Vol. 1)",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/3/0/fd3f0e52be674c08d4e962c2f4e3e1fc.mp3?hdnea=exp=1783433141~acl=/api/1/1/f/d/3/0/fd3f0e52be674c08d4e962c2f4e3e1fc.mp3*~data=user_id=0,application_id=42~hmac=0ed25adc3d975f7dac378080e74abff3aa1692a69267dfb5f375e44c1f772618",
+        "deezer_url": "https://www.deezer.com/track/134521894",
+        "spotify_url": null
+    },
+    "hurt::johnny cash": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/3ee70b0cf1729759dbe18934ea34c8c1/500x500-000000-80-0-0.jpg",
+        "album": "American IV: The Man Comes Around",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/8/0/cb843caafa1fe392684ac04f198e8a98.mp3?hdnea=exp=1783433141~acl=/api/1/1/c/b/8/0/cb843caafa1fe392684ac04f198e8a98.mp3*~data=user_id=0,application_id=42~hmac=ca9a5dc9970d688d3b9a07a69a72426e0f7a5bd36422a2d8b957200a18d29177",
+        "deezer_url": "https://www.deezer.com/track/128846783",
+        "spotify_url": null
+    },
+    "what hurts the most::rascal flatts": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/389c11ded1cc57c8940af38d2599e2be/500x500-000000-80-0-0.jpg",
+        "album": "What Hurts The Most",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/e/0/78e9ab6461b1d8e95dba228862ccacd1.mp3?hdnea=exp=1783433142~acl=/api/1/1/7/8/e/0/78e9ab6461b1d8e95dba228862ccacd1.mp3*~data=user_id=0,application_id=42~hmac=63e6f3180279f7d7d4b09a7c8456a25e31e90f0e83f48028ccaabce9062d78e5",
+        "deezer_url": "https://www.deezer.com/track/3339283651",
+        "spotify_url": null
+    },
+    "amazed::lonestar": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/8de8d86f60371680522478c31cde912e/500x500-000000-80-0-0.jpg",
+        "album": "Beautiful Love Songs",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/1/0/0e116dffcd11c0c982df0ddbd81f2236.mp3?hdnea=exp=1783433142~acl=/api/1/1/0/e/1/0/0e116dffcd11c0c982df0ddbd81f2236.mp3*~data=user_id=0,application_id=42~hmac=852b39e12708fbb6591350235ae23220414ed966ccff440966a7e12d79393bf3",
+        "deezer_url": "https://www.deezer.com/track/13130771",
+        "spotify_url": null
+    },
+    "let your love flow::the bellamy brothers": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/45297ac29d2ed1ee1ec8d4e92ea789e2/500x500-000000-80-0-0.jpg",
+        "album": "Great Records Of The Decade: 70's Hits, Vol. 1",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/0/0/3b0368974b2a79b78d4be975ea9ca166.mp3?hdnea=exp=1783433143~acl=/api/1/1/3/b/0/0/3b0368974b2a79b78d4be975ea9ca166.mp3*~data=user_id=0,application_id=42~hmac=4e606b64bc0eddd022d83fbe35ed38cdbf3f43a7acca94f2a4b5e53fd2658d71",
+        "deezer_url": "https://www.deezer.com/track/1808315997",
+        "spotify_url": null
+    },
+    "good time::niko moon": {
+        "cover_url": "https://cdn-images.dzcdn.net/images/cover/2be2afa1abf3bd3df5d0f501e6804a6e/500x500-000000-80-0-0.jpg",
+        "album": "GOOD TIME",
+        "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/8/0/238fb697484d8f390ef51fb7abb6e65b.mp3?hdnea=exp=1783433144~acl=/api/1/1/2/3/8/0/238fb697484d8f390ef51fb7abb6e65b.mp3*~data=user_id=0,application_id=42~hmac=0cf8ce5a71be232c8555ce80be196ac00620e3c8391c7d68f7eab14efe133505",
+        "deezer_url": "https://www.deezer.com/track/1469060782",
+        "spotify_url": null
+    }
+}

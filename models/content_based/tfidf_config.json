@@ -1,0 +1,11 @@
+{
+    "model": "tfidf_v2",
+    "vectorizer": "TfidfVectorizer default",
+    "query_type": "genre + mood + tempo",
+    "combined_score": {
+        "similarity_weight": 0.6,
+        "popularity_weight": 0.4
+    },
+    "deduplication": true,
+    "genre_filter": true
+}

@@ -1,0 +1,26 @@
+{
+    "model": "weighted_similarity_v2",
+    "features": "audio_features",
+    "scaling": "StandardScaler",
+    "best_weights": {
+        "valence": 3.0,
+        "energy": 3.0,
+        "danceability": 2.0,
+        "mode": 1.0,
+        "speechiness": 0.5,
+        "acousticness": 1.0,
+        "instrumentalness": 0.5,
+        "liveness": 0.5,
+        "tempo": 1.0,
+        "duration_min": 0.5,
+        "explicit": 0.5
+    },
+    "combined_score": {
+        "similarity_weight": 0.5,
+        "popularity_weight": 0.5
+    },
+    "mood_thresholds": {
+        "version": "v1",
+        "threshold": 0.5
+    }
+}

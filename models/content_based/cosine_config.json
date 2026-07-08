@@ -1,0 +1,6 @@
+{
+    "model": "cosine_similarity",
+    "features": "full_features",
+    "scaling": "StandardScaler",
+    "genre_filter": true
+}
