@@ -10,23 +10,36 @@ from src.utils.exceptions import ModelNotLoadedException
 
 logger = get_logger(__name__)
 
+
+
 def load_featured_dataset() -> pd.DataFrame:
     """Load featured unscaled dataset"""
     path = get_data_path('featured_dataset.csv')
     logger.info(f'Loading featured dataset from {path}')
-    return pd.read_csv(path)
+    df = pd.read_csv(path)
+    float_cols = df.select_dtypes(include=['float64']).columns
+    df[float_cols] = df[float_cols].astype('float32')
+    int_cols = df.select_dtypes(include=['int64']).columns
+    df[int_cols] = df[int_cols].astype('int32')
+    return df
+
 
 def load_full_standard() -> pd.DataFrame:
-    """Load full features standardized dataset"""
+    """Load full features standardized dataset (numeric feature columns only)"""
+    from src.utils.config import FULL_FEATURES
     path = get_data_path('featured_full_standard.csv')
     logger.info(f'Loading full standard dataset from {path}')
-    return pd.read_csv(path)
+    df = pd.read_csv(path, usecols=FULL_FEATURES)
+    return df.astype('float32')
 
 def load_audio_standard() -> pd.DataFrame:
-    """Load audio features standardized dataset"""
+    """Load audio features standardized dataset (numeric feature columns only)"""
+    from src.utils.config import AUDIO_FEATURES
     path = get_data_path('featured_audio_standard.csv')
     logger.info(f'Loading audio standard dataset from {path}')
-    return pd.read_csv(path)
+    df = pd.read_csv(path, usecols=AUDIO_FEATURES)
+    return df.astype('float32')
+
 
 def load_cosine_model() -> np.ndarray:
     """Load cosine similarity feature matrix"""
