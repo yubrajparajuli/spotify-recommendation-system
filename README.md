@@ -111,7 +111,7 @@ spotify-recommendation-system/
 This project uses the **Spotify Tracks Dataset** from Kaggle.
 
 Dataset:
-https://www.kaggle.com/datasets/maharshipandya/spotify-tracks-dataset
+https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
 The dataset contains Spotify track metadata and audio features that were used for:
 
