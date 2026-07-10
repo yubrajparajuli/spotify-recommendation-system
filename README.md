@@ -589,8 +589,6 @@ The backend will be available at:
 http://localhost:8000
 ```
 
----
-
 ### Start the Frontend
 
 ```bash
@@ -605,8 +603,6 @@ The frontend will be available at:
 http://localhost:5173
 ```
 
----
-
 ### Running with Docker
 
 Development:
@@ -619,6 +615,33 @@ Production:
 
 ```bash
 docker compose -f docker-compose.prod.yml up --build
+```
+
+### Using Make (Optional)
+
+A `Makefile` is included to simplify common Docker commands during local development.
+
+```bash
+# Build Docker images
+make build
+
+# Start the application
+make up
+
+# Start in detached mode
+make up-d
+
+# View backend logs
+make logs
+
+# Restart containers
+make restart
+
+# Stop and remove containers
+make down
+
+# Stop containers and remove volumes
+make clean
 ```
 
 ---
